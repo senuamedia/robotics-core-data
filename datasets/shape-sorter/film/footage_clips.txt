@@ -1,0 +1,12 @@
+clip 1 sorter_orbit frames 240 start_ms 0 speed_milli 0
+clip 2 sorter_wide frames 1452 start_ms 0 speed_milli 1000
+clip 3 sorter_circle frames 252 start_ms 500 speed_milli 1000
+clip 4 sorter_circle_slow frames 108 start_ms 7400 speed_milli 250
+clip 5 sorter_square frames 252 start_ms 9600 speed_milli 1000
+clip 6 sorter_square_slow frames 108 start_ms 16500 speed_milli 250
+clip 7 sorter_rectangle frames 252 start_ms 18700 speed_milli 1000
+clip 8 sorter_rectangle_slow frames 108 start_ms 25600 speed_milli 250
+clip 9 sorter_triangle frames 252 start_ms 27800 speed_milli 1000
+clip 10 sorter_triangle_slow frames 108 start_ms 34700 speed_milli 250
+clip 11 sorter_semicircle frames 252 start_ms 36900 speed_milli 1000
+clip 12 sorter_semicircle_slow frames 108 start_ms 43800 speed_milli 250

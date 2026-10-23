@@ -1,0 +1,17 @@
+{
+ "id": "Youngermaster/so100_medicamentos",
+ "revision": "5c254e5bad9e2d3bd234e693912d9c62ee7db148",
+ "licence": "apache-2.0",
+ "card_licence": "apache-2.0",
+ "author": "Youngermaster",
+ "url": "https://huggingface.co/datasets/Youngermaster/so100_medicamentos",
+ "last_modified": "2026-09-28T22:10:40.000Z",
+ "robot_type": "so_follower",
+ "format": "v3.0",
+ "fps": 30,
+ "episodes": 200,
+ "frames": 125517,
+ "parquet_files": 1,
+ "parquet_bytes": 4955772,
+ "rank": 141
+}

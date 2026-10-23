@@ -1,0 +1,17 @@
+{
+ "id": "VMuccio/rgb_cubes_669_terne_p1",
+ "revision": "1cdd672fc68872bab048ca12100856c094522efe",
+ "licence": "apache-2.0",
+ "card_licence": "apache-2.0",
+ "author": "VMuccio",
+ "url": "https://huggingface.co/datasets/VMuccio/rgb_cubes_669_terne_p1",
+ "last_modified": "2026-10-13T10:21:45.000Z",
+ "robot_type": "so_follower",
+ "format": "v3.0",
+ "fps": 30,
+ "episodes": 750,
+ "frames": 635370,
+ "parquet_files": 1,
+ "parquet_bytes": 21303913,
+ "rank": 17
+}

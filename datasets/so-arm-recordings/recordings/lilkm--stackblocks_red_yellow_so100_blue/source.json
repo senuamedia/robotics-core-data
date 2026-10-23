@@ -1,0 +1,17 @@
+{
+ "id": "lilkm/stackblocks_red_yellow_so100_blue",
+ "revision": "0a8d31eb55529b37286f3330e171c0475f489884",
+ "licence": "apache-2.0",
+ "card_licence": "apache-2.0",
+ "author": "lilkm",
+ "url": "https://huggingface.co/datasets/lilkm/stackblocks_red_yellow_so100_blue",
+ "last_modified": "2026-07-19T11:13:02.000Z",
+ "robot_type": "so_follower",
+ "format": "v3.0",
+ "fps": 30,
+ "episodes": 100,
+ "frames": 79781,
+ "parquet_files": 1,
+ "parquet_bytes": 2213113,
+ "rank": 269
+}

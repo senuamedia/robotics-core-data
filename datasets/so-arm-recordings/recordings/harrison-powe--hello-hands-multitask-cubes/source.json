@@ -1,0 +1,17 @@
+{
+ "id": "harrison-powe/hello-hands-multitask-cubes",
+ "revision": "f7a3d5bfa6da0ddf3d02af47dd2783e1131732a0",
+ "licence": "mit",
+ "card_licence": "mit",
+ "author": "harrison-powe",
+ "url": "https://huggingface.co/datasets/harrison-powe/hello-hands-multitask-cubes",
+ "last_modified": "2026-09-01T04:55:23.000Z",
+ "robot_type": "so_follower",
+ "format": "v3.0",
+ "fps": 30,
+ "episodes": 370,
+ "frames": 166500,
+ "parquet_files": 1,
+ "parquet_bytes": 4119214,
+ "rank": 102
+}

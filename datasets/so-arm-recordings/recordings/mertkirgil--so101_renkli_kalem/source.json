@@ -1,0 +1,17 @@
+{
+ "id": "mertkirgil/so101_renkli_kalem",
+ "revision": "40f709963ed687066f65eba6fef8d813fef5bf4b",
+ "licence": "apache-2.0",
+ "card_licence": "apache-2.0",
+ "author": "mertkirgil",
+ "url": "https://huggingface.co/datasets/mertkirgil/so101_renkli_kalem",
+ "last_modified": "2026-06-28T19:43:46.000Z",
+ "robot_type": "so_follower",
+ "format": "v3.0",
+ "fps": 30,
+ "episodes": 150,
+ "frames": 74233,
+ "parquet_files": 11,
+ "parquet_bytes": 3290181,
+ "rank": 298
+}

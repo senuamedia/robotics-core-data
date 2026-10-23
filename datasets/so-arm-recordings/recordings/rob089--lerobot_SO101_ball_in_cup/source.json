@@ -1,0 +1,17 @@
+{
+ "id": "rob089/lerobot_SO101_ball_in_cup",
+ "revision": "ab9074c0244a3fd46cc3079d345376ab55f152c1",
+ "licence": "apache-2.0",
+ "card_licence": "apache-2.0",
+ "author": "rob089",
+ "url": "https://huggingface.co/datasets/rob089/lerobot_SO101_ball_in_cup",
+ "last_modified": "2026-09-27T20:47:51.000Z",
+ "robot_type": "so_follower",
+ "format": "v3.0",
+ "fps": 30,
+ "episodes": 129,
+ "frames": 79848,
+ "parquet_files": 1,
+ "parquet_bytes": 3356007,
+ "rank": 268
+}

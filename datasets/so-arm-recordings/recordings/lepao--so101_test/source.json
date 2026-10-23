@@ -1,0 +1,17 @@
+{
+ "id": "lepao/so101_test",
+ "revision": "3cf02f561d35cf3ed9e2be0f3662c18bc6d5515e",
+ "licence": "apache-2.0",
+ "card_licence": "apache-2.0",
+ "author": "lepao",
+ "url": "https://huggingface.co/datasets/lepao/so101_test",
+ "last_modified": "2026-05-19T07:48:26.000Z",
+ "robot_type": "so_follower",
+ "format": "v3.0",
+ "fps": 30,
+ "episodes": 600,
+ "frames": 198164,
+ "parquet_files": 32,
+ "parquet_bytes": 6614525,
+ "rank": 79
+}

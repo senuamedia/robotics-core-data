@@ -1,0 +1,17 @@
+{
+ "id": "vicshi97/sock-garbage-merged_3.0",
+ "revision": "4d6c88687bb90e9e3a7300ba8cc0ffa012e692a6",
+ "licence": "apache-2.0",
+ "card_licence": "apache-2.0",
+ "author": "vicshi97",
+ "url": "https://huggingface.co/datasets/vicshi97/sock-garbage-merged_3.0",
+ "last_modified": "2026-10-18T04:10:15.000Z",
+ "robot_type": "so_follower",
+ "format": "v3.0",
+ "fps": 30,
+ "episodes": 260,
+ "frames": 111830,
+ "parquet_files": 1,
+ "parquet_bytes": 4874983,
+ "rank": 170
+}

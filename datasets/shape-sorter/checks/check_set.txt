@@ -1,0 +1,23 @@
+board top 68000000 underside 50000000 nm
+shape 0 height 40000000 outline points 180 cutout points 180
+  radius 23499999 to 23500000 -> 26499999 to 26500000 nm, offset 3000000 to 3000000
+shape 1 height 40000000 outline points 4 cutout points 4
+  edge 39000000 -> 44999999 nm, offset 2999999
+  edge 39000000 -> 44999999 nm, offset 2999999
+  edge 39000000 -> 44999999 nm, offset 2999999
+  edge 39000000 -> 44999999 nm, offset 2999999
+shape 2 height 40000000 outline points 4 cutout points 4
+  edge 20000000 -> 25999999 nm, offset 2999999
+  edge 20000000 -> 25999999 nm, offset 2999999
+  edge 64000000 -> 69999999 nm, offset 2999999
+  edge 64000000 -> 69999999 nm, offset 2999999
+shape 3 height 40000000 outline points 3 cutout points 3
+  edge 49999999 -> 60392304 nm, offset 2999999
+  edge 49999999 -> 60392304 nm, offset 2999999
+  edge 50000000 -> 60392305 nm, offset 2999999
+shape 4 height 40000000 outline points 91 cutout points 93
+  an arc and a flat edge: reported, not checked here
+S1 40 mm thick: failing 0
+S2 raised 50 mm: failing 0
+S3 cutouts 3 mm larger a side: failing 0
+exit 42

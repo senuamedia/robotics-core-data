@@ -1,0 +1,17 @@
+{
+ "id": "youto22/so101_test_03",
+ "revision": "47b0d69007ff1ccd35cf9bcb1120c4d1e74e2b6e",
+ "licence": "apache-2.0",
+ "card_licence": "apache-2.0",
+ "author": "youto22",
+ "url": "https://huggingface.co/datasets/youto22/so101_test_03",
+ "last_modified": "2026-03-07T07:55:41.000Z",
+ "robot_type": "so_follower",
+ "format": "v3.0",
+ "fps": 30,
+ "episodes": 155,
+ "frames": 119442,
+ "parquet_files": 3,
+ "parquet_bytes": 5277889,
+ "rank": 149
+}

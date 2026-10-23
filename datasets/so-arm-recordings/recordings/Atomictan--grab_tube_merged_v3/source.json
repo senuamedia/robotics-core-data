@@ -1,0 +1,17 @@
+{
+ "id": "Atomictan/grab_tube_merged_v3",
+ "revision": "e2b14afc747708b49fc97cfd2610b9ca093e1012",
+ "licence": "apache-2.0",
+ "card_licence": "apache-2.0",
+ "author": "Atomictan",
+ "url": "https://huggingface.co/datasets/Atomictan/grab_tube_merged_v3",
+ "last_modified": "2026-08-31T21:26:40.000Z",
+ "robot_type": "so_follower",
+ "format": "v3.0",
+ "fps": 30,
+ "episodes": 118,
+ "frames": 95305,
+ "parquet_files": 1,
+ "parquet_bytes": 3914684,
+ "rank": 210
+}

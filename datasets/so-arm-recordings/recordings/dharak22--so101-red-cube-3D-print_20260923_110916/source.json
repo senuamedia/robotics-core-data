@@ -1,0 +1,17 @@
+{
+ "id": "dharak22/so101-red-cube-3D-print_20260923_110916",
+ "revision": "98cb9bdf6201bd204fa08c8e267244c4085fe5da",
+ "licence": "apache-2.0",
+ "card_licence": "apache-2.0",
+ "author": "dharak22",
+ "url": "https://huggingface.co/datasets/dharak22/so101-red-cube-3D-print_20260923_110916",
+ "last_modified": "2026-09-23T12:46:04.000Z",
+ "robot_type": "so_follower",
+ "format": "v3.0",
+ "fps": 30,
+ "episodes": 198,
+ "frames": 117795,
+ "parquet_files": 21,
+ "parquet_bytes": 3390470,
+ "rank": 154
+}

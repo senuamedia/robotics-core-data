@@ -1,0 +1,17 @@
+{
+ "id": "mironess/so101_smolvla_sorting_216_fixed",
+ "revision": "81da99995d936dec0edb73d3ae95696f86198ef4",
+ "licence": "apache-2.0",
+ "card_licence": "apache-2.0",
+ "author": "mironess",
+ "url": "https://huggingface.co/datasets/mironess/so101_smolvla_sorting_216_fixed",
+ "last_modified": "2026-10-02T17:56:08.000Z",
+ "robot_type": "so_follower",
+ "format": "v3.0",
+ "fps": 30,
+ "episodes": 216,
+ "frames": 90489,
+ "parquet_files": 1,
+ "parquet_bytes": 4218500,
+ "rank": 227
+}

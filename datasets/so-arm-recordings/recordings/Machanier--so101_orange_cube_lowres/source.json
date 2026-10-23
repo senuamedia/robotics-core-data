@@ -1,0 +1,17 @@
+{
+ "id": "Machanier/so101_orange_cube_lowres",
+ "revision": "7bc5f0d7ec86789a3cb8b6efaa3f04f7ca341c24",
+ "licence": "apache-2.0",
+ "card_licence": "apache-2.0",
+ "author": "Machanier",
+ "url": "https://huggingface.co/datasets/Machanier/so101_orange_cube_lowres",
+ "last_modified": "2026-06-26T15:42:33.000Z",
+ "robot_type": "so_follower",
+ "format": "v3.0",
+ "fps": 30,
+ "episodes": 201,
+ "frames": 144751,
+ "parquet_files": 1,
+ "parquet_bytes": 6513659,
+ "rank": 119
+}

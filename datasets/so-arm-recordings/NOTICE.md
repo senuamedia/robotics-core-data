@@ -1,0 +1,204 @@
+# Third-party recordings
+
+The files under `recordings/<dataset>/streams/`, `states/` and `sim/` are derived from the recordings below, each under the licence its author gave it (the Apache License 2.0, the MIT License or CC BY 4.0; copies in `LICENSES/` at the repository's root). Changes made: each joint's recorded positions and commands converted to the servo's whole counts (`METHODS.md`); nothing else is changed. The recordings remain their authors'.
+
+- SkywalkerLi/so101_phase_split (revision c91d8ade3c0b0f0b45f1eba2ad5c06c152f62b32), by Skywalker Li (SkywalkerLi), apache-2.0: https://huggingface.co/datasets/SkywalkerLi/so101_phase_split; built from nc8304/so101_combined by Nicole (nc8304), apache-2.0: https://huggingface.co/datasets/nc8304/so101_combined
+- dadm022/lerobot_rgb_vla (revision cd609965081e01cdb8de3304e102d41e399d8daa), by IT Determ (dadm022), mit: https://huggingface.co/datasets/dadm022/lerobot_rgb_vla
+- nc8304/so101_color_augmented (revision 9531005e8aa8f3b4cf80607431b23685a3b5a927), by Nicole (nc8304), apache-2.0: https://huggingface.co/datasets/nc8304/so101_color_augmented; built from nc8304/so101_combined by Nicole (nc8304), apache-2.0: https://huggingface.co/datasets/nc8304/so101_combined
+- AdithyaRajendran/so101_grab_brain_t2_x10 (revision 23970dd8ea236f10ca63e52e76855b56bef9bb5f), by Adithya Rajendran (AdithyaRajendran), apache-2.0: https://huggingface.co/datasets/AdithyaRajendran/so101_grab_brain_t2_x10
+- physicalairi/so101_1200ep_dataset_20260803_104129 (revision d7b78e5cc28687d033e16d92e35776b7da745d2e), by フィジカルAI総合研究所 (physicalairi), apache-2.0: https://huggingface.co/datasets/physicalairi/so101_1200ep_dataset_20260803_104129
+- danilodjor/SO101-eval2-merged-25prompts (revision e31ac20977578cdeb1cdd225bdc46a163c6f27b9), by Danilo Dordevic (danilodjor), apache-2.0: https://huggingface.co/datasets/danilodjor/SO101-eval2-merged-25prompts
+- VMuccio/rgb_cubes_669_terne_p1 (revision 1cdd672fc68872bab048ca12100856c094522efe), by Valeria Muccio (VMuccio), apache-2.0: https://huggingface.co/datasets/VMuccio/rgb_cubes_669_terne_p1
+- 5hadytru/so101_grasp_2 (revision e6c19502df90f035327b714ea8310830d71d3adc), by Truman Hickok (5hadytru), apache-2.0: https://huggingface.co/datasets/5hadytru/so101_grasp_2
+- dnn1002/so101_cleanup_table_test_20260725_101717 (revision 6093f305be4734703f53ac6cad524a0c19a72082), by Nhat Nam Duong (dnn1002), apache-2.0: https://huggingface.co/datasets/dnn1002/so101_cleanup_table_test_20260725_101717
+- AkshayM-X/so101_pick_place_merged_first_400Epi (revision b8286b2151253b4632405ecdeb13ee0e2e32d996), by Akshay Ganesh Mhetre (AkshayM-X), apache-2.0: https://huggingface.co/datasets/AkshayM-X/so101_pick_place_merged_first_400Epi
+- ravediamond/botfails-h264-224 (revision 6859130e88561ec64a6545618683b3d63e088858), by ravindu somawansa (ravediamond), apache-2.0: https://huggingface.co/datasets/ravediamond/botfails-h264-224; built from kantine/BotFails by quentin (kantine), apache-2.0: https://huggingface.co/datasets/kantine/BotFails
+- samanthalhy/so100_popcorn_1 (revision feb9f146a8af68fc030d49804793940eddaa408f), by Samantha Lee (samanthalhy), apache-2.0: https://huggingface.co/datasets/samanthalhy/so100_popcorn_1
+- Samisaliveagain/so101_wm (revision 6de54268d238ac883870b136fd19b39d5591c8de), by Samyak Jain (Samisaliveagain), mit: https://huggingface.co/datasets/Samisaliveagain/so101_wm
+- SerhiiShuruta/so101_yellow_cube_grab (revision d98c1b24d620d7b9afe69b4ea1ffd57886c928f3), by Serhii Shuruta (SerhiiShuruta), apache-2.0: https://huggingface.co/datasets/SerhiiShuruta/so101_yellow_cube_grab
+- aShunSasaki/so101_pp_stationery_5obj_lightbox (revision 0aa43416f64b1a57188f69bffc1e95a0d049ba31), by Shun Sasaki (aShunSasaki), apache-2.0: https://huggingface.co/datasets/aShunSasaki/so101_pp_stationery_5obj_lightbox
+- jgreeley/so101_golden_600 (revision cd1ba4b593bf397421fadb147eb1ef3b8078634a), by Jeanine Greeley (jgreeley), apache-2.0: https://huggingface.co/datasets/jgreeley/so101_golden_600
+- DmitryStrog/so101_pnp_merged_500 (revision f3289247500a6142b635573469feaa63892dc205), by Dmitry Stroganov (DmitryStrog), apache-2.0: https://huggingface.co/datasets/DmitryStrog/so101_pnp_merged_500
+- access-robotics-team/so101_pp_stationery_5obj_color_select_v2 (revision 440255981acd1b130b6483f8bab15890aff4172b), by ACCESS Robotics Project (access-robotics-team), apache-2.0: https://huggingface.co/datasets/access-robotics-team/so101_pp_stationery_5obj_color_select_v2
+- ZibinDong/actioncodec-so100-part1 (revision f8e583a519d36f6054e4e120f8754faaabbbd465), by Zibin Dong (ZibinDong), apache-2.0: https://huggingface.co/datasets/ZibinDong/actioncodec-so100-part1
+- dmowns/so101_pick_place_items_with_HIL (revision 60bda8be5d0cae1c02d60e105a7e454c9a3e916b), by Dimitar Manovski (dmowns), apache-2.0: https://huggingface.co/datasets/dmowns/so101_pick_place_items_with_HIL
+- Loki0929/so100_lan (revision 17852d65f6b871a62d760adce88e1dd899663585), by Loki (Loki0929), apache-2.0: https://huggingface.co/datasets/Loki0929/so100_lan
+- shubham4413/erh_so101 (revision 250dd4ca283ed3f8c0e835105a7f2bbf4def7e92), by Shubham nagar (shubham4413), apache-2.0: https://huggingface.co/datasets/shubham4413/erh_so101
+- hjkso1406/so101-4tasks-100eps (revision 52df842eec7e9425a87040528f94ab20732e42fb), by Heo (hjkso1406), apache-2.0: https://huggingface.co/datasets/hjkso1406/so101-4tasks-100eps
+- nbirukov/so101_pnp_merged2 (revision 390929d146aeec72e190831f4bd4d3a802b13be6), by Nikita Birukov (nbirukov), apache-2.0: https://huggingface.co/datasets/nbirukov/so101_pnp_merged2
+- TomasAnderegg/so101_pill_sorting_v3 (revision 1d5758b230b42598449cf3731f745482d560b03b), by Tomas (TomasAnderegg), apache-2.0: https://huggingface.co/datasets/TomasAnderegg/so101_pill_sorting_v3
+- MathewYoussef/so101_4blocks_v1 (revision b1a9210eeaf528ba04b440bffe51ef091511ddd8), by Mathew Youssef (MathewYoussef), apache-2.0: https://huggingface.co/datasets/MathewYoussef/so101_4blocks_v1
+- Sengankou/so101_fold_towel (revision d7dd3d4242e52c38880397ee9da8587f3a1d5801), by Koya Sato (Sengankou), apache-2.0: https://huggingface.co/datasets/Sengankou/so101_fold_towel
+- TzuShian/so101_white_chess_20251021 (revision af16ff85d18e16ec99b3f5b77c833008d22be354), by Tzu-Shian Yang (TzuShian), apache-2.0: https://huggingface.co/datasets/TzuShian/so101_white_chess_20251021
+- mkm16207/so101_unplug_ethernet_20261022_025009_20261022_025735 (revision c1936d5b505f2301ec85d926f85c328302fa8017), by Manish Kumar Milan (mkm16207), apache-2.0: https://huggingface.co/datasets/mkm16207/so101_unplug_ethernet_20261022_025009_20261022_025735
+- shanuka15/so101_RGB_finalmerge (revision 838272f37b0811ccf8bd09537f310b8e0f0bd047), by S (shanuka15), apache-2.0: https://huggingface.co/datasets/shanuka15/so101_RGB_finalmerge
+- nonline/so101_cup_sorting_merged_3 (revision 676295bf8b8d5a5f1ef90022933ab84e1f50e4f6), by N H (nonline), apache-2.0: https://huggingface.co/datasets/nonline/so101_cup_sorting_merged_3
+- Mariaceleste12/so101_pickplace_v4 (revision a325c800eee2c4bb1b3199474c1a1c575697adb8), by Fernandez (Mariaceleste12), apache-2.0: https://huggingface.co/datasets/Mariaceleste12/so101_pickplace_v4
+- sahilkulriaboss/ours_536 (revision e33ba0d65b767e1fb4ceea61edf0fbed720823fd), by sahil kulria (sahilkulriaboss), apache-2.0: https://huggingface.co/datasets/sahilkulriaboss/ours_536
+- hungho77/so101-ai20k-multitask (revision 7634de5170a8330eee67a49fdf3d786e1e79b169), by Hung Ho (hungho77), apache-2.0: https://huggingface.co/datasets/hungho77/so101-ai20k-multitask
+- lanyard2400/soarm_pp_rgb_random_pose_red_target_600ep (revision 1e0ffac80fc833c1fc6e4f02f2bf2afc6ff600ea), by Hiroki Okuyama (lanyard2400), apache-2.0: https://huggingface.co/datasets/lanyard2400/soarm_pp_rgb_random_pose_red_target_600ep
+- zeuzei/pick_place_so101_battery_sort_9v_aa_330eps (revision 6a33170c3844561a7150ff48c51c8af5d7170812), by zeus (zeuzei), apache-2.0: https://huggingface.co/datasets/zeuzei/pick_place_so101_battery_sort_9v_aa_330eps
+- OlenaG/chesster_v1 (revision b1896a8afd68512117d57566036386ff5ee49ae2), by Olena G (OlenaG), apache-2.0: https://huggingface.co/datasets/OlenaG/chesster_v1
+- sabinMlminator/so101_pickplace_cubes_test1 (revision 8eacc9be761b90099f3e762bf2384366e4690563), by Sabin Grube Doiz (sabinMlminator), apache-2.0: https://huggingface.co/datasets/sabinMlminator/so101_pickplace_cubes_test1
+- dobri420/pick-cube-so101 (revision 87952448c358950c406891e0dc0a04433b281497), by Dobromir Yordanov (dobri420), apache-2.0: https://huggingface.co/datasets/dobri420/pick-cube-so101; built from dobri420/pick-cube-so101-sim by Dobromir Yordanov (dobri420), apache-2.0: https://huggingface.co/datasets/dobri420/pick-cube-so101-sim
+- xyin27/SO-101-PushT-45s (revision fb8e1e94e687b66d9a3e0338297091a216d8a9a8), by Rain (xyin27), apache-2.0: https://huggingface.co/datasets/xyin27/SO-101-PushT-45s
+- klvarshaa/so101_barcode_ep_v5 (revision 5607c5369714d969382938d13e6d0c254208dd47), by CLX (klvarshaa), apache-2.0: https://huggingface.co/datasets/klvarshaa/so101_barcode_ep_v5
+- Qiu-Xinchuan/so101_clean_table2.0 (revision 360f03f1282289097fc9b8f3baeae2d866ff6d14), by qxc (Qiu-Xinchuan), apache-2.0: https://huggingface.co/datasets/Qiu-Xinchuan/so101_clean_table2.0
+- kaiserbuffle/hanoi (revision 2c02c1adec39151f98f44a3ddba6c8a945130154), by Matthias von Rakowski (kaiserbuffle), apache-2.0: https://huggingface.co/datasets/kaiserbuffle/hanoi
+- ssafy-d101/pick_left_a1 (revision ca15635a88ba5f1ebaee88aaae86b7a86ce2dec1), by jabis (ssafy-d101), apache-2.0: https://huggingface.co/datasets/ssafy-d101/pick_left_a1
+- lepao/so101_test (revision 3cf02f561d35cf3ed9e2be0f3662c18bc6d5515e), by lepao, apache-2.0: https://huggingface.co/datasets/lepao/so101_test
+- MinhDuk/clean_20261014_full (revision c85535e92a6f37bdf6356675c84533cf5503cd91), by nguyen minh duc (MinhDuk), apache-2.0: https://huggingface.co/datasets/MinhDuk/clean_20261014_full
+- yamaisanerd/clean_20261014_combined (revision d1e44058181ebfd9646596f8af3b71e798879075), by Nguyen Duy Son (yamaisanerd), apache-2.0: https://huggingface.co/datasets/yamaisanerd/clean_20261014_combined
+- infoslack/SO-101-SMOLVLA-BIG (revision 76e052c4735aa17a780ea0cf33df1760700276ee), by Daniel Romero (infoslack), apache-2.0: https://huggingface.co/datasets/infoslack/SO-101-SMOLVLA-BIG
+- io-intelligence/so101_stack_cups (revision ad5f7586c8501430754d3e88bdd6b5d7dce07999), by IO Intelligence (io-intelligence), apache-2.0: https://huggingface.co/datasets/io-intelligence/so101_stack_cups
+- joanfox/so101_pencil_merged_199_hil (revision ea1f4e415b78ac3bd799cbd0e10902c9f10d190c), by jojo joan (joanfox), apache-2.0: https://huggingface.co/datasets/joanfox/so101_pencil_merged_199_hil
+- jeff-rp/so101_pickplace_all_area1 (revision 6ade7fa3611a48d19d1ccd465e0cea06308255c6), by Jeff Lin (jeff-rp), apache-2.0: https://huggingface.co/datasets/jeff-rp/so101_pickplace_all_area1
+- LeeAfe/so101-megamix-v1 (revision dbccad3b8069ff1f868569482e159109b2cd3eee), by Lee Afeawo (LeeAfe), apache-2.0: https://huggingface.co/datasets/LeeAfe/so101-megamix-v1
+- soulstarz/so101_pickplace_plus (revision 09e3853db8e9221da2025e2b8ee03dc0f556aaf2), by syq (soulstarz), apache-2.0: https://huggingface.co/datasets/soulstarz/so101_pickplace_plus
+- aivanni/so101-puzzle-v8 (revision 9fe8495800cc76b97bbd5bd73d191808836f1b47), by Andrey I (aivanni), apache-2.0: https://huggingface.co/datasets/aivanni/so101-puzzle-v8
+- vasco281204/so101_green_block (revision 0a45e12ec9282a939612298f83db435022b09087), by Nguyen Viet Anh (vasco281204), apache-2.0: https://huggingface.co/datasets/vasco281204/so101_green_block
+- dragon-95/so100_sorting_2 (revision a71a18c9566aebf1fe169b452f31397161a46ae6), by he yixuan (dragon-95), apache-2.0: https://huggingface.co/datasets/dragon-95/so100_sorting_2
+- Lunita02/Cubos_200 (revision cbabbf1a05215f2b0424acb7eecfa5749ffef3cf), by Selena Arribas Calderón (Lunita02), apache-2.0: https://huggingface.co/datasets/Lunita02/Cubos_200
+- Oscarcarrh/so101-cables-vla (revision 13b87e562efe3014c66f65d3c73571515c566f28), by Oscar Carranza Hernándes (Oscarcarrh), apache-2.0: https://huggingface.co/datasets/Oscarcarrh/so101-cables-vla
+- harrison-powe/hello-hands-multitask-cubes (revision f7a3d5bfa6da0ddf3d02af47dd2783e1131732a0), by Harrison Powe (harrison-powe), mit: https://huggingface.co/datasets/harrison-powe/hello-hands-multitask-cubes
+- CrazyYhang/precision-assembly (revision 615a13a463195e1dd95a05adde03e552ec3bff11), by Yhang (CrazyYhang), apache-2.0: https://huggingface.co/datasets/CrazyYhang/precision-assembly
+- BaboGaeguri/leftarm_v2 (revision 2ef6ac8363ccf292d031bb23f5f5775c0495e783), by Sangyun Park (BaboGaeguri), apache-2.0: https://huggingface.co/datasets/BaboGaeguri/leftarm_v2
+- Rorschach4153/so101_60_new (revision 2fb98415dffcc50a48f7d221fd3faeb674a77e44), by Rorschach233 (Rorschach4153), apache-2.0: https://huggingface.co/datasets/Rorschach4153/so101_60_new
+- aHiroakiIshikawa/so101-fold-towel-merged (revision 978352cb0f2e78a3dafdf114e9c462d74331e328), by ishi (aHiroakiIshikawa), apache-2.0: https://huggingface.co/datasets/aHiroakiIshikawa/so101-fold-towel-merged
+- rslxcvg/banana_act_direct_color_simple_v1_molmo_compat (revision 7c0a1397cbba7fed9a685b875fe31bfc2021ee62), by rslxcvg, apache-2.0: https://huggingface.co/datasets/rslxcvg/banana_act_direct_color_simple_v1_molmo_compat
+- fhliang/so101_pour_train_4x_scene (revision a2a9ace099f957568eb9ddd7054c5ec9dac82639), by Freddie Liang (fhliang), apache-2.0: https://huggingface.co/datasets/fhliang/so101_pour_train_4x_scene
+- lerobot-projects/2_bin_recycle_merged_20261022 (revision 15ea77ab98d609fce9b7c455bd5b7b3f5b967795), by LeRobot Projects (lerobot-projects), apache-2.0: https://huggingface.co/datasets/lerobot-projects/2_bin_recycle_merged_20261022
+- escape112/so101_three_ball_order_v1 (revision 9a8bdd8a16ce7d889b006057bf5133e6af9c9ac6), by Lin (escape112), apache-2.0: https://huggingface.co/datasets/escape112/so101_three_ball_order_v1
+- matCercola18/Clean_Workspace_SO101 (revision b1a431b12a4930b9ac233ceff28bab7710c18d94), by Matteo Cercola (matCercola18), apache-2.0: https://huggingface.co/datasets/matCercola18/Clean_Workspace_SO101
+- guloyy/SO101-eval2-rgb-expanded-v3-256 (revision 73fa571acbed69d0621fd431640d9b6743237ef9), by Gül Oymak (guloyy), apache-2.0: https://huggingface.co/datasets/guloyy/SO101-eval2-rgb-expanded-v3-256
+- LeRobot-worldwide-hackathon/95-dr4r-hackathon_so100_pickandplace (revision 565841f0c32ee7b7d9e1433f4d96c8ba24c7ae4f), by LeRobot Worldwide Hackathon (LeRobot-worldwide-hackathon), apache-2.0: https://huggingface.co/datasets/LeRobot-worldwide-hackathon/95-dr4r-hackathon_so100_pickandplace
+- Machanier/so101_orange_cube_lowres (revision 7bc5f0d7ec86789a3cb8b6efaa3f04f7ca341c24), by Maxence Chanier (Machanier), apache-2.0: https://huggingface.co/datasets/Machanier/so101_orange_cube_lowres
+- RonLiao/lerobot-so101-elevator-6btn-dual-cam (revision fec00ee4e3290a4b3de2191efed773cb06125056), by RonLiao, apache-2.0: https://huggingface.co/datasets/RonLiao/lerobot-so101-elevator-6btn-dual-cam
+- RoMALab/so101_stacking_without_orange_blue (revision bcdc3bbb0500f94c9b67529ae57510267d1efa3d), by Robotics & Multimodal Autonomy (RoMA) Lab (RoMALab), apache-2.0: https://huggingface.co/datasets/RoMALab/so101_stacking_without_orange_blue
+- Chojins/chess_game_009_white (revision 9da8e6d4569f4fb49552730c7483b59d78816dd9), by Jacob Gertsch (Chojins), apache-2.0: https://huggingface.co/datasets/Chojins/chess_game_009_white
+- gimarchetti/so101-winnie-us7 (revision a48be0b262e75b12ee8c672c47592d4f45c0f409), by Giovanni Marchetti (gimarchetti), apache-2.0: https://huggingface.co/datasets/gimarchetti/so101-winnie-us7
+- andlyu/newiii_many_y_3d (revision 9a067be8f80b9e5b30ec934b0b77703ba16e9b8f), by Andrew Lyubovsky (andlyu), apache-2.0: https://huggingface.co/datasets/andlyu/newiii_many_y_3d
+- CV-Rob/record_so101_lego_polar_v1_20260604_230453 (revision b897bb56f8ec31822ae4abe8bd64aa3a0a292e16), by Jonas Schramm (CV-Rob), apache-2.0: https://huggingface.co/datasets/CV-Rob/record_so101_lego_polar_v1_20260604_230453
+- Cornito/so101_chess17 (revision e28ff179f5a99a9b2ad9c7ff93783a79312bb714), by Corneille Marechal (Cornito), apache-2.0: https://huggingface.co/datasets/Cornito/so101_chess17
+- samsitol/so100_peg01 (revision 540f9f3cf9c8c09704f11a739848823c2e12e693), by Sam (samsitol), apache-2.0: https://huggingface.co/datasets/samsitol/so100_peg01
+- Deviant65/so101_redcube_3new (revision bc1309447aa0c98c03fd20120a50a156cc57c279), by dev (Deviant65), apache-2.0: https://huggingface.co/datasets/Deviant65/so101_redcube_3new
+- RooibosT/so101_bolt-threading_eunbin (revision 1c51775301db17b9388c7b3de429227da5b9c793), by Chanhyuk Lee (RooibosT), apache-2.0: https://huggingface.co/datasets/RooibosT/so101_bolt-threading_eunbin
+- UNITAmanipulation/so101_pour_water_20260919_142610 (revision 7efc52c8b66ed32263230a20829b8213056ec8dc), by unita_manipulation (UNITAmanipulation), apache-2.0: https://huggingface.co/datasets/UNITAmanipulation/so101_pour_water_20260919_142610
+- LePixelArt/all_datasets_aggregated (revision c5f6f75745de20e319d94951f001102a766ea558), by LePixelArt, apache-2.0: https://huggingface.co/datasets/LePixelArt/all_datasets_aggregated
+- FeiYjf/new_GtoR (revision c3fba3ed78de36d602885c2d9569cff82fcff494), by Fei (FeiYjf), apache-2.0: https://huggingface.co/datasets/FeiYjf/new_GtoR
+- Youngermaster/so100_medicamentos (revision 5c254e5bad9e2d3bd234e693912d9c62ee7db148), by Juan Manuel Young Hoyos (Youngermaster), apache-2.0: https://huggingface.co/datasets/Youngermaster/so100_medicamentos
+- zeraaak/so101_blue_cube_black_box_100Demos (revision 17753de59381dfb81fc8024297650d24b460d31c), by Yamen Al Ahmad (zeraaak), apache-2.0: https://huggingface.co/datasets/zeraaak/so101_blue_cube_black_box_100Demos
+- phonglnd-prdcv/pnp_single_block_2 (revision 228437b4f4dad82b6fac9321ce928fc4912fa97e), by Phong Lam (phonglnd-prdcv), apache-2.0: https://huggingface.co/datasets/phonglnd-prdcv/pnp_single_block_2
+- msmandelbrot/so101_pick_and_place_green_cube_black_box (revision 0a93549e1675e9c5f8fa1a95fa54481582d4f09f), by Anastasiia Romanenko (msmandelbrot), apache-2.0: https://huggingface.co/datasets/msmandelbrot/so101_pick_and_place_green_cube_black_box
+- SharkDan/so100_test_f1 (revision 717a4c3b3e90f49c927f7efa57b06e5926a5edd7), by Laiyidan (SharkDan), apache-2.0: https://huggingface.co/datasets/SharkDan/so100_test_f1
+- jbae28/merged_all (revision 61cd2cd535881946dcc0e218b0cfb3cea3d72f2c), by Jackson Bae (jbae28), apache-2.0: https://huggingface.co/datasets/jbae28/merged_all
+- rahul0512/pill_sort_18_holes_1 (revision 80d88c97014b97788ae462320fb487dfbb2249ac), by Rahul Patil (rahul0512), apache-2.0: https://huggingface.co/datasets/rahul0512/pill_sort_18_holes_1
+- youto22/so101_test_03 (revision 47b0d69007ff1ccd35cf9bcb1120c4d1e74e2b6e), by Y-Kitamura (youto22), apache-2.0: https://huggingface.co/datasets/youto22/so101_test_03
+- emboss369/so101_lego_20260613_20260613_131100 (revision 19002ef4e25b738a944439c4a6d0ede0421a5383), by Hiroaki Kaneda (emboss369), apache-2.0: https://huggingface.co/datasets/emboss369/so101_lego_20260613_20260613_131100
+- observabot/so101_die_mat4 (revision 8fc24d3508c6f4c6cd49070d78db9b0e043641ba), by Ob Bo (observabot), apache-2.0: https://huggingface.co/datasets/observabot/so101_die_mat4
+- fljjoin/so100_testcubo20 (revision 72610c55a02b2fb203427051338aac355ebe8ff8), by Fablab Joinville (fljjoin), apache-2.0: https://huggingface.co/datasets/fljjoin/so100_testcubo20
+- louis126584/so101-test5 (revision aef5c5b01cef1e0f1a75147f5202004e09e6b8a6), by yiming liu (louis126584), apache-2.0: https://huggingface.co/datasets/louis126584/so101-test5
+- dharak22/so101-red-cube-3D-print_20260923_110916 (revision 98cb9bdf6201bd204fa08c8e267244c4085fe5da), by Solanki Dharak Deepak (dharak22), apache-2.0: https://huggingface.co/datasets/dharak22/so101-red-cube-3D-print_20260923_110916
+- Bixymax/so101_dataset_all_shapes_v2 (revision 40e2a392b149e2751d3767666681552b91fb5bbf), by Bixymax, apache-2.0: https://huggingface.co/datasets/Bixymax/so101_dataset_all_shapes_v2
+- tttonyalpha/so101_pick_cube_300_task3 (revision d22485100688ef9d0ebc6a33013be61e2d5ecae2), by Nikita (tttonyalpha), apache-2.0: https://huggingface.co/datasets/tttonyalpha/so101_pick_cube_300_task3
+- Tron-Hayato/record-pick-and-stack-adjust (revision 42f550eb3a1419ba6690b778d71737f3fbbdcae2), by Hayato Nakamura (Tron-Hayato), apache-2.0: https://huggingface.co/datasets/Tron-Hayato/record-pick-and-stack-adjust
+- kulsum1/pick-cube-so101-simtwin (revision a36ce3d316b3c870d513a515ed2fad3051c27f7a), by KULSUM JAHA MOHAMMED (kulsum1), apache-2.0: https://huggingface.co/datasets/kulsum1/pick-cube-so101-simtwin
+- samsam0510/cube_reorientation_2 (revision 01a6af3fba3da975571f751d33d3b04b3431ac6a), by Minjun Lee (samsam0510), apache-2.0: https://huggingface.co/datasets/samsam0510/cube_reorientation_2
+- binhpham/naive-bench (revision 21bb67a121d11031495b7b98d21a65e4e02a6430), by binhpham, apache-2.0: https://huggingface.co/datasets/binhpham/naive-bench
+- ryotayagi/so101-gear-assembly-test0619_1 (revision 3932a3be844b453210f20b15d08f620b1b411097), by ryotayagi, apache-2.0: https://huggingface.co/datasets/ryotayagi/so101-gear-assembly-test0619_1
+- ryan-wwj/wallx-so101-200 (revision 09fbfd5c7638dc474bf0a3bab3d2f1dc647d391d), by ryan-wwj, apache-2.0: https://huggingface.co/datasets/ryan-wwj/wallx-so101-200
+- denys1912/so101_cube_in_box_v2_20260803_193625 (revision fdce6eb529bb0367624bdc5d65650d4981825c46), by denys1912, apache-2.0: https://huggingface.co/datasets/denys1912/so101_cube_in_box_v2_20260803_193625
+- csacan/SO101-eval2-brg-25prompts (revision 6583cba56855a2d4f542b4d87c1990a8786a30af), by csacan, apache-2.0: https://huggingface.co/datasets/csacan/SO101-eval2-brg-25prompts
+- y1y2y3/so101_test8 (revision c1818a633ce9fe6b1ef0dd4246f49defc94edd10), by y1y2y3, apache-2.0: https://huggingface.co/datasets/y1y2y3/so101_test8
+- vicshi97/sock-garbage-merged_3.0 (revision 4d6c88687bb90e9e3a7300ba8cc0ffa012e692a6), by vicshi97, apache-2.0: https://huggingface.co/datasets/vicshi97/sock-garbage-merged_3.0
+- Zekai-Chen/so101_pi05_pick_place_3cam (revision af80dc0e6cff91841486dbd20d2725d755c922b5), by Zekai-Chen, apache-2.0: https://huggingface.co/datasets/Zekai-Chen/so101_pi05_pick_place_3cam
+- ViVi-AI/so101_grab_pink_cube_merged (revision b95afa84ba95823969e413ad81bacf3e43b1a1a1), by ViVi-AI, apache-2.0: https://huggingface.co/datasets/ViVi-AI/so101_grab_pink_cube_merged
+- apayan/so100_ball8 (revision f318cc9490b327bd1382e29c528f7d7348aa4716), by apayan, apache-2.0: https://huggingface.co/datasets/apayan/so100_ball8
+- Stands99/so101_gather_dolls_260923_120ep_20260923_163400 (revision d1503e96f508de636a62b35958f56e3dcde5d808), by Stands99, apache-2.0: https://huggingface.co/datasets/Stands99/so101_gather_dolls_260923_120ep_20260923_163400
+- Alkatt/so_101_PickStackSort_RedBlueCube (revision 35b45bf0403b69767002e32223f9ff7ea0e209b8), by Alkatt, apache-2.0: https://huggingface.co/datasets/Alkatt/so_101_PickStackSort_RedBlueCube
+- bfpl/so101_green_lego_block_into_bowl (revision 6ffcb97d7c551b45864821e8cca01a4e0ebb3f5d), by bfpl, apache-2.0: https://huggingface.co/datasets/bfpl/so101_green_lego_block_into_bowl
+- kvnptl/so101-teleop-vials-to-rack-real (revision b9f73d7e9009e2205bf6db464903b735fb43c27a), by kvnptl, apache-2.0: https://huggingface.co/datasets/kvnptl/so101-teleop-vials-to-rack-real
+- jlesein/TestBoulon7 (revision 7880fad2babdd4ca3c3b5111970469aee797dab9), by jlesein, apache-2.0: https://huggingface.co/datasets/jlesein/TestBoulon7
+- tobiastech/sortarm_multi (revision 50c52636319e64da5e2f171de614aeee83c27d49), by tobiastech, apache-2.0: https://huggingface.co/datasets/tobiastech/sortarm_multi
+- open-cloth/so101-full-fold-merged (revision 098156104900bdb9c47ad92d7d851cbc251e0e47), by open-cloth, apache-2.0: https://huggingface.co/datasets/open-cloth/so101-full-fold-merged
+- jackdzk/pick_place_charger_soarm101-2cam (revision 48a5410dda5b640f53f026212ae52c127ccc5aec), by jackdzk, apache-2.0: https://huggingface.co/datasets/jackdzk/pick_place_charger_soarm101-2cam
+- nepher-robotics/red_on_blue_7pos (revision 777a1f239ac6698e8580b5dc0a286b39a5db37ab), by nepher-robotics, apache-2.0: https://huggingface.co/datasets/nepher-robotics/red_on_blue_7pos
+- Ibuprofene/grab_cup_2cam_v4 (revision 6118206d65282132ca9a636fa06f6d031040c749), by Ibuprofene, apache-2.0: https://huggingface.co/datasets/Ibuprofene/grab_cup_2cam_v4
+- MCeut/so101_lab_openBin_putCube (revision ac5456f3177cdf6d07de9b9539092b230aa3ecd4), by MCeut, apache-2.0: https://huggingface.co/datasets/MCeut/so101_lab_openBin_putCube
+- BrandonAL/my_svla_so101_all_v2 (revision 29b13b3d3a4ba91b748c78140b9b93d185aa0d81), by BrandonAL, apache-2.0: https://huggingface.co/datasets/BrandonAL/my_svla_so101_all_v2
+- lmsforAI/so101_cube_pick_place_dualcam_v2_20260603_063542 (revision be9b3526d3b30df884a030c1de5b755e8fe0a373), by lmsforAI, apache-2.0: https://huggingface.co/datasets/lmsforAI/so101_cube_pick_place_dualcam_v2_20260603_063542
+- akira-sasaki/akabeko_instruct_v2 (revision 120c14cb9111a1e4db206785578be12c2b4dced8), by akira-sasaki, apache-2.0: https://huggingface.co/datasets/akira-sasaki/akabeko_instruct_v2
+- armandomm09/so101_terminal_sort (revision d0279be86407844cc47d8e72b5cec3ffc3ad8e7a), by armandomm09, apache-2.0: https://huggingface.co/datasets/armandomm09/so101_terminal_sort
+- PEN2044/set94_50d435_aserrazni_index (revision cdec6a918917028d89f6bbb588000fc1cabcc533), by PEN2044, apache-2.0: https://huggingface.co/datasets/PEN2044/set94_50d435_aserrazni_index
+- Shu-0810/so101_pick_cap (revision 8d7195f67cfe1af00278f591a46b78a8e998984e), by Shu-0810, apache-2.0: https://huggingface.co/datasets/Shu-0810/so101_pick_cap
+- LambdaJin/so101_pick_cube_train_n1 (revision 74f73688c34860434905d30242394748409f4da9), by LambdaJin, apache-2.0: https://huggingface.co/datasets/LambdaJin/so101_pick_cube_train_n1
+- nevertmr/so101_coffee_subtask (revision d00d9c1366d804529d992581145aeecf1c1c5e59), by nevertmr, apache-2.0: https://huggingface.co/datasets/nevertmr/so101_coffee_subtask
+- xcjayson/lerobot_xiaoc_data_pi (revision 863e3b581f21e0b4b053679d116ec188abc12506), by xcjayson, apache-2.0: https://huggingface.co/datasets/xcjayson/lerobot_xiaoc_data_pi
+- HITHY/so100_peach4 (revision e63a36d0e6be83c48d0223a913aef4d8da4f0851), by HITHY, apache-2.0: https://huggingface.co/datasets/HITHY/so100_peach4
+- zhenxuan/so100-put-apricot (revision 8795a43916c509d188978ad0866c1cbb06c90e72), by zhenxuan, apache-2.0: https://huggingface.co/datasets/zhenxuan/so100-put-apricot
+- DorayakiLin/yzw_so100_stack_cube_v4 (revision da7c2ecf66ab30bff1ee455a83efc83b37a7781c), by DorayakiLin, apache-2.0: https://huggingface.co/datasets/DorayakiLin/yzw_so100_stack_cube_v4
+- Atomictan/grab_tube_merged_v3 (revision e2b14afc747708b49fc97cfd2610b9ca093e1012), by Atomictan, apache-2.0: https://huggingface.co/datasets/Atomictan/grab_tube_merged_v3
+- guanfengliu/grab_brush_diff_bin_orient2 (revision 028557af09333fdf2ce5cfc2b5ae269feead498e), by guanfengliu, apache-2.0: https://huggingface.co/datasets/guanfengliu/grab_brush_diff_bin_orient2
+- CoRL2026-CSI/SO101-teleop_sort_blocks_100epi (revision 7a14a11506adbb03070b7bb20316dfdd914afaf1), by CoRL2026-CSI, apache-2.0: https://huggingface.co/datasets/CoRL2026-CSI/SO101-teleop_sort_blocks_100epi
+- funXedu/so101_lego_brick (revision 8353c0544c1ffbf8782f88c44b24575f7405bd75), by funXedu, apache-2.0: https://huggingface.co/datasets/funXedu/so101_lego_brick
+- BlackWhite123/so101_redball (revision 0cc574781a27d37f23d893bb07049d33b80d4526), by BlackWhite123, apache-2.0: https://huggingface.co/datasets/BlackWhite123/so101_redball
+- trivien/so101-pick-place1_20260819_144049 (revision 3273c7950141f51de6ed652ebfef9f0d70084a0b), by trivien, apache-2.0: https://huggingface.co/datasets/trivien/so101-pick-place1_20260819_144049
+- doganay-sirintuna/so101_pick_all_scotchtapes_onto_tray_20260527_204218 (revision 212314910be6eac2edb519dbb64d76d8ae195af7), by doganay-sirintuna, apache-2.0: https://huggingface.co/datasets/doganay-sirintuna/so101_pick_all_scotchtapes_onto_tray_20260527_204218
+- pavannanjunda333/so101_cube_in_box (revision 2eba44c1774fb6551adb34b2c9058d24277de764), by pavannanjunda333, apache-2.0: https://huggingface.co/datasets/pavannanjunda333/so101_cube_in_box
+- FUCTOZO/so101_ACT_merged (revision 6ba0b249651b0d262c7fc3c9552ab717e864b36e), by FUCTOZO, apache-2.0: https://huggingface.co/datasets/FUCTOZO/so101_ACT_merged
+- jammin0319/so101_tape_to_box_v2 (revision bb465907ffb5e99e0e0b99e311916575f29b967a), by jammin0319, apache-2.0: https://huggingface.co/datasets/jammin0319/so101_tape_to_box_v2
+- Aaronng456/SO101_picknplace5 (revision b5dad226705006ca6e14b4f0b723339b07b6fd26), by Aaronng456, apache-2.0: https://huggingface.co/datasets/Aaronng456/SO101_picknplace5
+- avanturist/so101_rgb_cube_300_task2 (revision 41ef2926dec224394c2ee28aca1cbddfc903fb1f), by avanturist, apache-2.0: https://huggingface.co/datasets/avanturist/so101_rgb_cube_300_task2
+- jonyshaik/so101_pp_block (revision 1ab4b72579821ab2ce885fcbef9234e71103c575), by jonyshaik, apache-2.0: https://huggingface.co/datasets/jonyshaik/so101_pp_block
+- mironess/so101_smolvla_sorting_216_fixed (revision 81da99995d936dec0edb73d3ae95696f86198ef4), by mironess, apache-2.0: https://huggingface.co/datasets/mironess/so101_smolvla_sorting_216_fixed
+- pranavsaroha/so100_medicine_0605 (revision 3838f8c932d933804a79d17f52c456b59932840b), by pranavsaroha, apache-2.0: https://huggingface.co/datasets/pranavsaroha/so100_medicine_0605
+- allenchienxxx/so100_block_mug (revision 2cfe4bbab325d60164b00539738ca5c2d3c83a3c), by allenchienxxx, apache-2.0: https://huggingface.co/datasets/allenchienxxx/so100_block_mug
+- amindt/so101_100ep_v1 (revision a8e18b2683cdcd7194acdb7f9ae250abd9f76f11), by amindt, apache-2.0: https://huggingface.co/datasets/amindt/so101_100ep_v1
+- anikmall/so101_tissue_480p_merged (revision 9318df5ed0524ef8061b76c15bc4574097085037), by anikmall, apache-2.0: https://huggingface.co/datasets/anikmall/so101_tissue_480p_merged
+- Niels2/so101-demonstrations-robotcam-640p-30fps (revision d6d59e233c4d99d198d85f42bf22478b703aeb9f), by Niels2, apache-2.0: https://huggingface.co/datasets/Niels2/so101-demonstrations-robotcam-640p-30fps
+- RebelDot/single_so101_cubes (revision 69ceb8def2aeb1ffc8a53b37fc23e1f635d9e60d), by RebelDot, apache-2.0: https://huggingface.co/datasets/RebelDot/single_so101_cubes
+- Jinny9220/so101_test_v1 (revision 2453ba021cd8dc0155af679ee7b9d6905193d260), by Jinny9220, apache-2.0: https://huggingface.co/datasets/Jinny9220/so101_test_v1
+- tinkhireeva/so101_pick_place_yellow_objects_10_locations (revision 07a0c9b896f0ffadd5b9ec8057036f5bc6c4159a), by tinkhireeva, apache-2.0: https://huggingface.co/datasets/tinkhireeva/so101_pick_place_yellow_objects_10_locations
+- fuemocheng/record_so101_mahjong_test01 (revision cdf192276dfbbdd0851b83992aeff5158b7ebe09), by fuemocheng, apache-2.0: https://huggingface.co/datasets/fuemocheng/record_so101_mahjong_test01
+- akitomomikix/so101_ivs_stageA (revision d59837859e1c7321f631675cd6a261be1564a751), by akitomomikix, apache-2.0: https://huggingface.co/datasets/akitomomikix/so101_ivs_stageA
+- corona314/data15_20261024_111140 (revision 36c4a3ade206bfc4a2ae6272b6f0e0a7caf2294f), by corona314, apache-2.0: https://huggingface.co/datasets/corona314/data15_20261024_111140
+- Aneysait/so101_pick_cube_random_v3 (revision 785b171349c5b1735ff8b5e1e381bc8849d016aa), by Aneysait, apache-2.0: https://huggingface.co/datasets/Aneysait/so101_pick_cube_random_v3
+- isadev/bougies2 (revision 04cb81231cec6404717ad62d927563923bd57438), by isadev, apache-2.0: https://huggingface.co/datasets/isadev/bougies2
+- oregoncoast/lego-pick-place_20261006_140138 (revision 773e57933975a5ca7d876ec456fd331a616bb5a3), by oregoncoast, apache-2.0: https://huggingface.co/datasets/oregoncoast/lego-pick-place_20261006_140138
+- minghonlai/so101-classes-20251110 (revision e155b5c6be29589fb903b359cb01236e106ed5a8), by minghonlai, apache-2.0: https://huggingface.co/datasets/minghonlai/so101-classes-20251110
+- lipsop/so101-block-in-bin-100ep (revision 2fd6bf360927cadef62a15b4f1a77aa0ba468a8c), by lipsop, apache-2.0: https://huggingface.co/datasets/lipsop/so101-block-in-bin-100ep
+- polrolnik2/so101_candy (revision 6fc8a48159bb7416c962cd3c3ea9ce8f6e23c8fb), by polrolnik2, apache-2.0: https://huggingface.co/datasets/polrolnik2/so101_candy
+- karthikpythireddi93/breakfast_sandiwch (revision c7f8ccdf2aa88cba84a279e59685dc49dab96c64), by karthikpythireddi93, apache-2.0: https://huggingface.co/datasets/karthikpythireddi93/breakfast_sandiwch
+- sajad2222/so101_semantic_pick_place_4cmd (revision 9f2d45f61e28b2772b0ebfa618218f92076b2a59), by sajad2222, apache-2.0: https://huggingface.co/datasets/sajad2222/so101_semantic_pick_place_4cmd
+- paszea/so100_lego_mix (revision a2ee7ae91ce6776f75bf21b145dbd99b6e033f3a), by paszea, apache-2.0: https://huggingface.co/datasets/paszea/so100_lego_mix
+- Ayyoub2026/so101_box_to_paper (revision c23b81ec85f36ea2ff726514358b4ce49e0284ea), by Ayyoub2026, apache-2.0: https://huggingface.co/datasets/Ayyoub2026/so101_box_to_paper
+- BoiWanKenobi/lerobot_so101_put_in_pot (revision 892ef845c606dbe0c9a2d27be834795fdf20ddc5), by BoiWanKenobi, apache-2.0: https://huggingface.co/datasets/BoiWanKenobi/lerobot_so101_put_in_pot
+- BrutalCaesar/phi_so101_cubes_cylinder_recovery_v1 (revision cf44c0993c77e89629fd1e598088eef8187845c9), by BrutalCaesar, apache-2.0: https://huggingface.co/datasets/BrutalCaesar/phi_so101_cubes_cylinder_recovery_v1
+- Embodied-AI-6/dataset (revision 3d33e927df43b0e1d198130d61df5e93edc42b6b), by Embodied-AI-6, apache-2.0: https://huggingface.co/datasets/Embodied-AI-6/dataset
+- DimiSch/so100_terra_50_2 (revision 6610dd65f72a0d6e997794893252fe021920bbe0), by DimiSch, apache-2.0: https://huggingface.co/datasets/DimiSch/so100_terra_50_2
+- YSanYi/so101_stack_same_color_blocks (revision 3e9f0775febe5d7295af8efc23dc09e5a4de3b30), by YSanYi, apache-2.0: https://huggingface.co/datasets/YSanYi/so101_stack_same_color_blocks
+- poi69420/so101_red_screwdriver_to_yellow_container_extra_02 (revision 09f6c7ad19479ec9b075176368c1c9226cdb358b), by poi69420, apache-2.0: https://huggingface.co/datasets/poi69420/so101_red_screwdriver_to_yellow_container_extra_02
+- HarrisonLee24/so100_test (revision f5f0286507931588271361c47de6cd0a5fb6b620), by HarrisonLee24, apache-2.0: https://huggingface.co/datasets/HarrisonLee24/so100_test
+- rob089/lerobot_SO101_ball_in_cup (revision ab9074c0244a3fd46cc3079d345376ab55f152c1), by rob089, apache-2.0: https://huggingface.co/datasets/rob089/lerobot_SO101_ball_in_cup
+- lilkm/stackblocks_red_yellow_so100_blue (revision 0a8d31eb55529b37286f3330e171c0475f489884), by lilkm, apache-2.0: https://huggingface.co/datasets/lilkm/stackblocks_red_yellow_so100_blue
+- PIONMENSON/so101_insert_2026-01-11 (revision 72e8c14cd8129ef4e0bb18d7ef2c8db06fe83e69), by PIONMENSON, apache-2.0: https://huggingface.co/datasets/PIONMENSON/so101_insert_2026-01-11
+- jk-junhokim/highlighter-70 (revision 28c8b0d0075e2dd471527ffc9f4f849c5a438526), by jk-junhokim, apache-2.0: https://huggingface.co/datasets/jk-junhokim/highlighter-70
+- endoard/grab_cup_2cam_v5 (revision 6c2ec967a8b440dcfaadd030243542922236c046), by endoard, apache-2.0: https://huggingface.co/datasets/endoard/grab_cup_2cam_v5
+- thinhpt/so101_train_merged_1205 (revision 756eb0678a0b56585635656a5d09ab9a34c897ba), by thinhpt, apache-2.0: https://huggingface.co/datasets/thinhpt/so101_train_merged_1205
+- yutofujita/so101-boccia-center-only (revision 9a6bfb650042e2c486ea3335d50cebd02c071e78), by yutofujita, apache-2.0: https://huggingface.co/datasets/yutofujita/so101-boccia-center-only
+- jinseonylee/SO101_PickAndPlace_Fruit (revision 13151b3dd9cf03c1139e61594e54f7a7e3a302d2), by jinseonylee, mit: https://huggingface.co/datasets/jinseonylee/SO101_PickAndPlace_Fruit
+- vivekgr92/cup-stacking (revision be3a0a0cf2d8e0166f97ee87b3abb15cd1c39156), by vivekgr92, apache-2.0: https://huggingface.co/datasets/vivekgr92/cup-stacking
+- SurajChess/so101_dataset_tape1 (revision 985b70506256800b641578291e7fe9314009861c), by SurajChess, apache-2.0: https://huggingface.co/datasets/SurajChess/so101_dataset_tape1
+- liuhuanjim013/so100_th_1 (revision 1f99c9370054bbc03b4f9338b2af314375046b2c), by liuhuanjim013, apache-2.0: https://huggingface.co/datasets/liuhuanjim013/so100_th_1
+- shinba/so101_red_cube_bowl_v2 (revision 6dd77cbdf8b23ba604f529f29b45279d4f557f0c), by shinba, apache-2.0: https://huggingface.co/datasets/shinba/so101_red_cube_bowl_v2
+- T1g3rGE/so100_pickplace_pnp (revision 03261f0498edd3a4011974ea6379a7c12db53d6b), by T1g3rGE, apache-2.0: https://huggingface.co/datasets/T1g3rGE/so100_pickplace_pnp
+- indojin/so101_pick_place_vial_v2 (revision eb38ac4d76ffd409ef73602aef01a75d2df37857), by indojin, apache-2.0: https://huggingface.co/datasets/indojin/so101_pick_place_vial_v2
+- roboticshack/team16-cleaning-plate (revision 62ed0e9eeace8be0cb740e1452dad3a1a8f50ac7), by roboticshack, apache-2.0: https://huggingface.co/datasets/roboticshack/team16-cleaning-plate
+- eundong123/so101 (revision 6eefe2fe89b8c7c54bdbdf931a27eabc5f563644), by eundong123, apache-2.0: https://huggingface.co/datasets/eundong123/so101
+- 3b4t4/so101_pickplace_3color_20260601_135201 (revision a8e9aaf5195e6d7d52bee6921df4b24f0c3d2fc7), by 3b4t4, apache-2.0: https://huggingface.co/datasets/3b4t4/so101_pickplace_3color_20260601_135201
+- bjb7/so101_berm_build_test_2 (revision 07cfb644bf038fe0d9ebcb2485e8337d2a094fd1), by bjb7, apache-2.0: https://huggingface.co/datasets/bjb7/so101_berm_build_test_2
+- Pavitpaul/so101_peg_transfer_v2 (revision 05642f46ac4d4f75c5a207e4503926e5a7a46cc8), by Pavitpaul, apache-2.0: https://huggingface.co/datasets/Pavitpaul/so101_peg_transfer_v2
+- subhodipsaha/so101_stack_three_cubes_08_19 (revision 8311b76246ef0a02f33f996edbef40031251a85b), by subhodipsaha, apache-2.0: https://huggingface.co/datasets/subhodipsaha/so101_stack_three_cubes_08_19
+- charleyong/so100_tic_tac_toe_autoend (revision 7601cb6353bfb19faf613d2d5f778157ca4ba701), by charleyong, apache-2.0: https://huggingface.co/datasets/charleyong/so100_tic_tac_toe_autoend
+- HCIS-Lab/soarm101-feeding-nuts (revision 1dbb94e8fcb9b3bd5f38b410aa3d00ed0e45ae98), by HCIS-Lab, apache-2.0: https://huggingface.co/datasets/HCIS-Lab/soarm101-feeding-nuts
+- mertkirgil/so101_renkli_kalem (revision 40f709963ed687066f65eba6fef8d813fef5bf4b), by mertkirgil, apache-2.0: https://huggingface.co/datasets/mertkirgil/so101_renkli_kalem

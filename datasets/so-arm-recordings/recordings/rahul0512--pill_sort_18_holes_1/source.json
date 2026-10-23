@@ -1,0 +1,17 @@
+{
+ "id": "rahul0512/pill_sort_18_holes_1",
+ "revision": "80d88c97014b97788ae462320fb487dfbb2249ac",
+ "licence": "apache-2.0",
+ "card_licence": "apache-2.0",
+ "author": "rahul0512",
+ "url": "https://huggingface.co/datasets/rahul0512/pill_sort_18_holes_1",
+ "last_modified": "2026-10-07T15:07:01.000Z",
+ "robot_type": "so_follower",
+ "format": "v3.0",
+ "fps": 30,
+ "episodes": 108,
+ "frames": 119657,
+ "parquet_files": 6,
+ "parquet_bytes": 4363592,
+ "rank": 148
+}

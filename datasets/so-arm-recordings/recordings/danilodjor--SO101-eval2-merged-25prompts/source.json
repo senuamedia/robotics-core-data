@@ -1,0 +1,17 @@
+{
+ "id": "danilodjor/SO101-eval2-merged-25prompts",
+ "revision": "e31ac20977578cdeb1cdd225bdc46a163c6f27b9",
+ "licence": "apache-2.0",
+ "card_licence": "apache-2.0",
+ "author": "danilodjor",
+ "url": "https://huggingface.co/datasets/danilodjor/SO101-eval2-merged-25prompts",
+ "last_modified": "2026-05-19T20:10:55.000Z",
+ "robot_type": "so_follower",
+ "format": "v3.0",
+ "fps": 30,
+ "episodes": 1518,
+ "frames": 671081,
+ "parquet_files": 159,
+ "parquet_bytes": 21078322,
+ "rank": 16
+}

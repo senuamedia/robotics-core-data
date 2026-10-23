@@ -1,0 +1,17 @@
+{
+ "id": "tttonyalpha/so101_pick_cube_300_task3",
+ "revision": "d22485100688ef9d0ebc6a33013be61e2d5ecae2",
+ "licence": "apache-2.0",
+ "card_licence": "apache-2.0",
+ "author": "tttonyalpha",
+ "url": "https://huggingface.co/datasets/tttonyalpha/so101_pick_cube_300_task3",
+ "last_modified": "2025-11-29T19:32:35.000Z",
+ "robot_type": "so101_follower",
+ "format": "v3.0",
+ "fps": 30,
+ "episodes": 300,
+ "frames": 116016,
+ "parquet_files": 1,
+ "parquet_bytes": 2021353,
+ "rank": 157
+}

@@ -1,0 +1,17 @@
+{
+ "id": "HarrisonLee24/so100_test",
+ "revision": "f5f0286507931588271361c47de6cd0a5fb6b620",
+ "licence": "apache-2.0",
+ "card_licence": "apache-2.0",
+ "author": "HarrisonLee24",
+ "url": "https://huggingface.co/datasets/HarrisonLee24/so100_test",
+ "last_modified": "2025-03-19T16:54:22.000Z",
+ "robot_type": "so100",
+ "format": "v2.1",
+ "fps": 30,
+ "episodes": 92,
+ "frames": 80091,
+ "parquet_files": 92,
+ "parquet_bytes": 3926293,
+ "rank": 267
+}

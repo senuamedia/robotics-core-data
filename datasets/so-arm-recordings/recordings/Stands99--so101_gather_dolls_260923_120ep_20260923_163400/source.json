@@ -1,0 +1,17 @@
+{
+ "id": "Stands99/so101_gather_dolls_260923_120ep_20260923_163400",
+ "revision": "d1503e96f508de636a62b35958f56e3dcde5d808",
+ "licence": "apache-2.0",
+ "card_licence": "apache-2.0",
+ "author": "Stands99",
+ "url": "https://huggingface.co/datasets/Stands99/so101_gather_dolls_260923_120ep_20260923_163400",
+ "last_modified": "2026-09-23T09:46:51.000Z",
+ "robot_type": "so_follower",
+ "format": "v3.0",
+ "fps": 25,
+ "episodes": 120,
+ "frames": 108657,
+ "parquet_files": 1,
+ "parquet_bytes": 4991103,
+ "rank": 176
+}

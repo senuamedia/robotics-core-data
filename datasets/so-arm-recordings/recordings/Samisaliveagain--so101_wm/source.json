@@ -1,0 +1,17 @@
+{
+ "id": "Samisaliveagain/so101_wm",
+ "revision": "6de54268d238ac883870b136fd19b39d5591c8de",
+ "licence": "mit",
+ "card_licence": "mit",
+ "author": "Samisaliveagain",
+ "url": "https://huggingface.co/datasets/Samisaliveagain/so101_wm",
+ "last_modified": "2026-08-04T18:56:02.000Z",
+ "robot_type": "so_follower",
+ "format": "v3.0",
+ "fps": 30,
+ "episodes": 177,
+ "frames": 355884,
+ "parquet_files": 1,
+ "parquet_bytes": 9660518,
+ "rank": 36
+}

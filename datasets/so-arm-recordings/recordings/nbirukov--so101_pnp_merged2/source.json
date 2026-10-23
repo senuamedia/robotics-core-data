@@ -1,0 +1,17 @@
+{
+ "id": "nbirukov/so101_pnp_merged2",
+ "revision": "390929d146aeec72e190831f4bd4d3a802b13be6",
+ "licence": "apache-2.0",
+ "card_licence": "apache-2.0",
+ "author": "nbirukov",
+ "url": "https://huggingface.co/datasets/nbirukov/so101_pnp_merged2",
+ "last_modified": "2025-11-11T10:18:42.000Z",
+ "robot_type": "so101_follower",
+ "format": "v3.0",
+ "fps": 30,
+ "episodes": 467,
+ "frames": 243673,
+ "parquet_files": 1,
+ "parquet_bytes": 6522620,
+ "rank": 55
+}

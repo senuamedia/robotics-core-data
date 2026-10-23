@@ -1,0 +1,17 @@
+{
+ "id": "pavannanjunda333/so101_cube_in_box",
+ "revision": "2eba44c1774fb6551adb34b2c9058d24277de764",
+ "licence": "apache-2.0",
+ "card_licence": "apache-2.0",
+ "author": "pavannanjunda333",
+ "url": "https://huggingface.co/datasets/pavannanjunda333/so101_cube_in_box",
+ "last_modified": "2026-10-21T05:49:44.000Z",
+ "robot_type": "so_follower",
+ "format": "v3.0",
+ "fps": 30,
+ "episodes": 190,
+ "frames": 92751,
+ "parquet_files": 22,
+ "parquet_bytes": 3693228,
+ "rank": 219
+}

@@ -1,0 +1,17 @@
+{
+ "id": "bjb7/so101_berm_build_test_2",
+ "revision": "07cfb644bf038fe0d9ebcb2485e8337d2a094fd1",
+ "licence": "apache-2.0",
+ "card_licence": "apache-2.0",
+ "author": "bjb7",
+ "url": "https://huggingface.co/datasets/bjb7/so101_berm_build_test_2",
+ "last_modified": "2025-05-21T16:25:04.000Z",
+ "robot_type": "so101",
+ "format": "v2.1",
+ "fps": 30,
+ "episodes": 50,
+ "frames": 74683,
+ "parquet_files": 50,
+ "parquet_bytes": 3551173,
+ "rank": 293
+}

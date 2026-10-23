@@ -1,0 +1,17 @@
+{
+ "id": "phonglnd-prdcv/pnp_single_block_2",
+ "revision": "228437b4f4dad82b6fac9321ce928fc4912fa97e",
+ "licence": "apache-2.0",
+ "card_licence": "apache-2.0",
+ "author": "phonglnd-prdcv",
+ "url": "https://huggingface.co/datasets/phonglnd-prdcv/pnp_single_block_2",
+ "last_modified": "2026-10-14T09:10:23.000Z",
+ "robot_type": "so_follower",
+ "format": "v3.0",
+ "fps": 30,
+ "episodes": 150,
+ "frames": 123272,
+ "parquet_files": 3,
+ "parquet_bytes": 5084792,
+ "rank": 143
+}

@@ -1,0 +1,17 @@
+{
+ "id": "samsitol/so100_peg01",
+ "revision": "540f9f3cf9c8c09704f11a739848823c2e12e693",
+ "licence": "apache-2.0",
+ "card_licence": "apache-2.0",
+ "author": "samsitol",
+ "url": "https://huggingface.co/datasets/samsitol/so100_peg01",
+ "last_modified": "2025-06-18T22:18:48.000Z",
+ "robot_type": "so100",
+ "format": "v2.1",
+ "fps": 30,
+ "episodes": 150,
+ "frames": 133461,
+ "parquet_files": 150,
+ "parquet_bytes": 6064253,
+ "rank": 131
+}

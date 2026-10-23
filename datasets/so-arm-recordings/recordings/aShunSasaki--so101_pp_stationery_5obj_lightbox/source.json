@@ -1,0 +1,17 @@
+{
+ "id": "aShunSasaki/so101_pp_stationery_5obj_lightbox",
+ "revision": "0aa43416f64b1a57188f69bffc1e95a0d049ba31",
+ "licence": "apache-2.0",
+ "card_licence": "apache-2.0",
+ "author": "aShunSasaki",
+ "url": "https://huggingface.co/datasets/aShunSasaki/so101_pp_stationery_5obj_lightbox",
+ "last_modified": "2026-07-14T13:07:07.000Z",
+ "robot_type": "so_follower",
+ "format": "v3.0",
+ "fps": 30,
+ "episodes": 416,
+ "frames": 305227,
+ "parquet_files": 34,
+ "parquet_bytes": 8966825,
+ "rank": 40
+}

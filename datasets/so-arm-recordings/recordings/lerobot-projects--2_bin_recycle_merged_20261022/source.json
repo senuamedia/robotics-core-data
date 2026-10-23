@@ -1,0 +1,17 @@
+{
+ "id": "lerobot-projects/2_bin_recycle_merged_20261022",
+ "revision": "15ea77ab98d609fce9b7c455bd5b7b3f5b967795",
+ "licence": "apache-2.0",
+ "card_licence": "apache-2.0",
+ "author": "lerobot-projects",
+ "url": "https://huggingface.co/datasets/lerobot-projects/2_bin_recycle_merged_20261022",
+ "last_modified": "2026-10-23T13:45:54.000Z",
+ "robot_type": "so_follower",
+ "format": "v3.0",
+ "fps": 30,
+ "episodes": 198,
+ "frames": 148386,
+ "parquet_files": 1,
+ "parquet_bytes": 3871604,
+ "rank": 111
+}

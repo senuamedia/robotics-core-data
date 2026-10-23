@@ -1,0 +1,17 @@
+{
+ "id": "5hadytru/so101_grasp_2",
+ "revision": "e6c19502df90f035327b714ea8310830d71d3adc",
+ "licence": "apache-2.0",
+ "card_licence": "apache-2.0",
+ "author": "5hadytru",
+ "url": "https://huggingface.co/datasets/5hadytru/so101_grasp_2",
+ "last_modified": "2025-12-24T00:06:50.000Z",
+ "robot_type": "so101_follower",
+ "format": "v3.0",
+ "fps": 30,
+ "episodes": 780,
+ "frames": 522332,
+ "parquet_files": 1,
+ "parquet_bytes": 13703725,
+ "rank": 21
+}

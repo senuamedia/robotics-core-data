@@ -1,0 +1,17 @@
+{
+ "id": "dmowns/so101_pick_place_items_with_HIL",
+ "revision": "60bda8be5d0cae1c02d60e105a7e454c9a3e916b",
+ "licence": "apache-2.0",
+ "card_licence": "apache-2.0",
+ "author": "dmowns",
+ "url": "https://huggingface.co/datasets/dmowns/so101_pick_place_items_with_HIL",
+ "last_modified": "2026-05-14T21:16:35.000Z",
+ "robot_type": "so_follower",
+ "format": "v3.0",
+ "fps": 30,
+ "episodes": 473,
+ "frames": 259167,
+ "parquet_files": 1,
+ "parquet_bytes": 6319169,
+ "rank": 49
+}

@@ -1,0 +1,17 @@
+{
+ "id": "jackdzk/pick_place_charger_soarm101-2cam",
+ "revision": "48a5410dda5b640f53f026212ae52c127ccc5aec",
+ "licence": "apache-2.0",
+ "card_licence": "apache-2.0",
+ "author": "jackdzk",
+ "url": "https://huggingface.co/datasets/jackdzk/pick_place_charger_soarm101-2cam",
+ "last_modified": "2026-06-21T01:45:03.000Z",
+ "robot_type": "so_follower",
+ "format": "v3.0",
+ "fps": 30,
+ "episodes": 175,
+ "frames": 104940,
+ "parquet_files": 35,
+ "parquet_bytes": 3980404,
+ "rank": 185
+}

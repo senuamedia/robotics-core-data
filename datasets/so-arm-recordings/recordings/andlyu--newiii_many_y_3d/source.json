@@ -1,0 +1,17 @@
+{
+ "id": "andlyu/newiii_many_y_3d",
+ "revision": "9a067be8f80b9e5b30ec934b0b77703ba16e9b8f",
+ "licence": "apache-2.0",
+ "card_licence": "apache-2.0",
+ "author": "andlyu",
+ "url": "https://huggingface.co/datasets/andlyu/newiii_many_y_3d",
+ "last_modified": "2025-05-31T05:16:10.000Z",
+ "robot_type": "so100",
+ "format": "v2.1",
+ "fps": 30,
+ "episodes": 75,
+ "frames": 139383,
+ "parquet_files": 75,
+ "parquet_bytes": 6995259,
+ "rank": 125
+}

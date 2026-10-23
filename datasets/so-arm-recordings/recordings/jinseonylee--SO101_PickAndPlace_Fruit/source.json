@@ -1,0 +1,17 @@
+{
+ "id": "jinseonylee/SO101_PickAndPlace_Fruit",
+ "revision": "13151b3dd9cf03c1139e61594e54f7a7e3a302d2",
+ "licence": "mit",
+ "card_licence": "mit",
+ "author": "jinseonylee",
+ "url": "https://huggingface.co/datasets/jinseonylee/SO101_PickAndPlace_Fruit",
+ "last_modified": "2026-07-22T05:46:15.000Z",
+ "robot_type": "so101_follower",
+ "format": "v2.1",
+ "fps": 30,
+ "episodes": 102,
+ "frames": 78111,
+ "parquet_files": 102,
+ "parquet_bytes": 3869546,
+ "rank": 276
+}

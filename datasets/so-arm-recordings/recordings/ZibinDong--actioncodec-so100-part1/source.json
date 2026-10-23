@@ -1,0 +1,17 @@
+{
+ "id": "ZibinDong/actioncodec-so100-part1",
+ "revision": "f8e583a519d36f6054e4e120f8754faaabbbd465",
+ "licence": "apache-2.0",
+ "card_licence": "apache-2.0",
+ "author": "ZibinDong",
+ "url": "https://huggingface.co/datasets/ZibinDong/actioncodec-so100-part1",
+ "last_modified": "2026-01-01T16:23:16.000Z",
+ "robot_type": "so100_follower",
+ "format": "v3.0",
+ "fps": 30,
+ "episodes": 500,
+ "frames": 263342,
+ "parquet_files": 2,
+ "parquet_bytes": 11848835,
+ "rank": 48
+}

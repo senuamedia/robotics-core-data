@@ -1,0 +1,17 @@
+{
+ "id": "Cornito/so101_chess17",
+ "revision": "e28ff179f5a99a9b2ad9c7ff93783a79312bb714",
+ "licence": "apache-2.0",
+ "card_licence": "apache-2.0",
+ "author": "Cornito",
+ "url": "https://huggingface.co/datasets/Cornito/so101_chess17",
+ "last_modified": "2025-05-23T16:51:39.000Z",
+ "robot_type": "so101",
+ "format": "v2.1",
+ "fps": 30,
+ "episodes": 190,
+ "frames": 137956,
+ "parquet_files": 190,
+ "parquet_bytes": 5866588,
+ "rank": 128
+}

@@ -1,0 +1,17 @@
+{
+ "id": "Oscarcarrh/so101-cables-vla",
+ "revision": "13b87e562efe3014c66f65d3c73571515c566f28",
+ "licence": "apache-2.0",
+ "card_licence": "apache-2.0",
+ "author": "Oscarcarrh",
+ "url": "https://huggingface.co/datasets/Oscarcarrh/so101-cables-vla",
+ "last_modified": "2026-06-02T00:50:11.000Z",
+ "robot_type": "so_follower",
+ "format": "v3.0",
+ "fps": 30,
+ "episodes": 300,
+ "frames": 169721,
+ "parquet_files": 8,
+ "parquet_bytes": 10984644,
+ "rank": 100
+}

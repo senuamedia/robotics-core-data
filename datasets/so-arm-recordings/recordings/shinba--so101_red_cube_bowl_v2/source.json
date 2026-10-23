@@ -1,0 +1,17 @@
+{
+ "id": "shinba/so101_red_cube_bowl_v2",
+ "revision": "6dd77cbdf8b23ba604f529f29b45279d4f557f0c",
+ "licence": "apache-2.0",
+ "card_licence": "apache-2.0",
+ "author": "shinba",
+ "url": "https://huggingface.co/datasets/shinba/so101_red_cube_bowl_v2",
+ "last_modified": "2026-10-19T11:09:41.000Z",
+ "robot_type": "so_follower",
+ "format": "v3.0",
+ "fps": 30,
+ "episodes": 144,
+ "frames": 75313,
+ "parquet_files": 4,
+ "parquet_bytes": 3415262,
+ "rank": 283
+}

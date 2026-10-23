@@ -1,0 +1,99 @@
+rank	dataset	reason
+2	Chaenn/so101_multitask_oldsim_pick_place_stack_raw	no count lattice
+3	zmfldlwx/community-v1-so101-pick_and_place-converted	no count lattice
+6	Yotofu/so100_sweeper_shoes	a lattice not a servo's
+7	oxomi/so101_cube_place_dirty300sim_real_0908_onehot	no count lattice
+8	1006labs/so101-table-clean-mujoco	no count lattice
+10	rubatotree/classify-blocks-2-1-full	no count lattice
+11	OctoEnSueur/so101_sim_wm	no count lattice
+13	Spa-Bench/spa-bench-eval-rollouts-groot-n1-7-frozen-llm-full	no count lattice
+14	justintiensmith/Spa_Bench_Full_GR00T-N1.7_Frozen_LLM	no count lattice
+15	XvKuoMing/so101_chess_wide	no count lattice
+18	eslab1234/task1_hybrid_5blocks_v3_444ep_merged	no count lattice
+19	aailabkaist/so101_coffee_all	a lattice not a servo's
+20	kenlee-ga/synthetic-so101-pickplace-dr	no count lattice
+23	AutoRLBench/eval_push_green_button_merged	a lattice not a servo's
+24	geonmin-kim/so101_merged_v2	a lattice not a servo's
+25	dpak0724/so101_three_cam_all_505_merged	no count lattice
+26	VoicAndrei/so100_kitchen	a lattice not a servo's
+27	k1000dai/so101-self-replica-500ep-durable-test	no count lattice
+29	tron-robotics/so101-transfer-cube-cosmos-1000	no count lattice
+31	alfinwilliam30/so101_sim_v4	no count lattice
+32	zzzlamb/so100_test3	no count lattice
+33	sammy-labs/brickbot_so101_wall	a lattice not a servo's
+35	Cache-SCA/SO101-cap_multitask_7tasks_700epi_10fps	no count lattice
+37	Aikwed/pick_orange_joint_limited	no count lattice
+39	marin6670/so101_sim_auto_and_teleop_block_remocon_basketball_cocacola_2026_08_06	no count lattice
+42	tatsuyaaaaaaa/so101_pick_red_dice_sim_300_gap05_home_gripper_reconstruct_success_280	no count lattice
+43	shane1027/so101-nerds-combined-v2	no count lattice
+46	digas99/so101_tray_train_v2box	no count lattice
+47	Priyakarna/SO101-GreyEraser-PickPlace	a lattice not a servo's
+50	witsense-ai/so101_longhorizon	no count lattice
+53	ill337/so101-bin-lift-6cam-cylroom	no count lattice
+65	saibala29/ours_536	a duplicate of sahilkulriaboss/ours_536
+68	cueng/so101_demo_bowl	a lattice not a servo's
+69	maxmeyer/three_tool_opt_sim_20261023_002225	no count lattice
+82	Long27/so101_mixed_3_sources	no count lattice
+84	liorbenhorin-nv/so101_vials_dr_rack_layouts_expanded_500ep_20261010	no count lattice
+85	CatGoesMeow/ACT_100eps_Selection_Nuts_Bolt_Aug_10_inf-recording	no count lattice
+87	Hailey-5-2026/rollout_robotA_ep114_repeatability_test_20261014	no count lattice
+88	zacapa/SO101_chess_test2_6	a lattice not a servo's
+92	whosricky/so101-megamix-v1	a duplicate of LeeAfe/so101-megamix-v1
+94	robotpizzacup/robot-pizza-cup-1	a lattice not a servo's
+96	JoshuaKo/so101_combined	a lattice not a servo's
+101	L7-Robotics/so101_new_3cam_red_cube_black_pen_task_v3	a lattice not a servo's
+105	nikodembartnik/so101_pencil_holder_merged	a lattice not a servo's
+109	MikeChenYZ/merged-soarm-fmb-v2	no count lattice
+113	jdevoor/so101_merged_datasets	a lattice not a servo's
+115	shiaw87/record-merged	a lattice not a servo's
+118	qualiaadmin/95-dr4r-hackathon_so100_pickandplace-tagged	a duplicate of LeRobot-worldwide-hackathon/95-dr4r-hackathon_so100_pickandplace
+122	Kishgard/fleximu_so101_pickup_marked_block	no count lattice
+127	PersonaAIDev/so101_test_0113_mimic_2	no count lattice
+129	Gowshigan/pick-and-place-so101-enriched	a download that fails or a row without six values
+130	chrvngr/so101_grab	a lattice not a servo's
+133	hbseong/eval_record-pick-and-place-so101_ft-3ep	no count lattice
+134	legalaspro/so101_pickplace_auto_pi05_relative	a lattice not a servo's
+139	BobBobbson/so100_BEP_Tactile_Dataset_Finalllly	no count lattice
+140	megasfi/rollout_act_so101_test_20260803_071753	no count lattice
+147	jonathm126/eval_so101_car_pick_and_place-96_episodes_v0-real_v0	no count lattice
+155	sreetz-nv/so101_teleop_vials_all_merged	no count lattice
+159	MrDuarte/so101_test_lift_object_v1	no count lattice
+162	RobotLearningProject/so101_pickplace_merged_all_dagger2	no count lattice
+164	theconstruct-ai/so101_pickplace_auto_v1	a lattice not a servo's
+174	mchen02/so100_test3	a lattice not a servo's
+175	alex-luci/single_so101_cubes_extended	a lattice not a servo's
+177	Ethgar/so101-pen-office-300	no count lattice
+183	maximilianofir/so101_newton_dr_lr_quarter_20261002	no count lattice
+188	nitred/so101-combined-e150-26-05	a lattice not a servo's
+192	VShirokun/office-rover-grasp-hd-v21	no count lattice
+194	0xNOY/so101_wn	no count lattice
+197	Askel1419/so101_3_cup_no4	a lattice not a servo's
+199	ErfanRzt/so100_sort_cube	a lattice not a servo's
+201	OkzRIKU/so101-turn-up-drone	no count lattice
+203	shreyasgite/so100_base_env	a lattice not a servo's
+206	giacomoran/so101-cube-test	no count lattice
+209	shawshank1104/so101_pick_and_place_3cam	no count lattice
+212	UD77/latchbench-so101-v0	no count lattice
+217	Beilinghamburger/so100_200	no count lattice
+224	jiuyal2/so100_marker	a lattice not a servo's
+225	wqz25/so101_pill_bottle	a lattice not a servo's
+230	nggyu-jarm/so101_color_test_combined_070426-2310	a lattice not a servo's
+231	Ahi-Yu/so100_smol_test_2	a download that fails or a row without six values
+233	Harumo/record-so101-total	no count lattice
+234	aakashv100/eval_so101-pick-cube-v2-random	no count lattice
+236	anhquoc29/stack_3_box_30x3030	no count lattice
+242	zinuzoid/lerobot-card-to-green-marker-360p	no count lattice
+243	q-research/cylinder-in-hole-mirrored	no count lattice
+245	EverNorif/so101-table-cleanup	a lattice not a servo's
+254	SalZa2004/so101_track_rails_depth_2	a lattice not a servo's
+256	kartoffelchips/eval_so101_006_chk085000	no count lattice
+258	armnet/eval_so101_insert_actuator_into_camera_mount_pi05_fft_step20000_50eps	no count lattice
+266	zetanschy/cap_to_mug_sirius_r3	no count lattice
+275	HyeonseokE/SO101-pnp_ma_80epi	no count lattice
+277	Jingyi-Z/rollout_eval_A_sd50	no count lattice
+278	rbalazs/SmolVLA_DemoDataset	a lattice not a servo's
+282	makermods/merged_200ep_100corr3x_blue_cube_orange_box	a lattice not a servo's
+285	wantobcm/so101_box2bowl	a lattice not a servo's
+286	AymenRobot/aymen_so101_dataset_merged	a lattice not a servo's
+287	miketangmk/eval_so101-2	no count lattice
+288	hiroki12486/so_arm101_wm_p2	no count lattice

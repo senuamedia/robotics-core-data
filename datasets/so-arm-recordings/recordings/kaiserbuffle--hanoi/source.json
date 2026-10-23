@@ -1,0 +1,17 @@
+{
+ "id": "kaiserbuffle/hanoi",
+ "revision": "2c02c1adec39151f98f44a3ddba6c8a945130154",
+ "licence": "apache-2.0",
+ "card_licence": "apache-2.0",
+ "author": "kaiserbuffle",
+ "url": "https://huggingface.co/datasets/kaiserbuffle/hanoi",
+ "last_modified": "2025-05-06T14:29:50.000Z",
+ "robot_type": "so101",
+ "format": "v2.1",
+ "fps": 30,
+ "episodes": 50,
+ "frames": 203010,
+ "parquet_files": 50,
+ "parquet_bytes": 8487851,
+ "rank": 77
+}

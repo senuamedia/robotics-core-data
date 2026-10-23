@@ -1,0 +1,32 @@
+film frames 391 columns 43 goals rows 7745 pose rows 7745
+frames with the numbers on screen 341
+F1 the step is the footage's World frame: failing 0 (on screen 0)
+F2 the goals are the dataset's: failing 0 (on screen 0)
+F3 the step log is the dataset's link 5 centre: failing 0 (on screen 0)
+K1 clearance of shape: the film 2305, the dataset 2305 match
+K1 clearance of shape: the film 2391, the dataset 2391 match
+K1 clearance of shape: the film 1685, the dataset 1685 match
+K1 clearance of shape: the film 2411, the dataset 2411 match
+K1 clearance of shape: the film 1759, the dataset 1759 match
+K1 the closest pass (um): the film 1685, the dataset 1685 match
+K1 shapes through: the film 5, the dataset 5 match
+K2 grasps: the film 5, the dataset 5 match
+K2 slips: the film 0, the dataset 0 match
+K2 steps: the film 7744, the dataset 7744 match
+K2 the run (ms): the film 48400, the dataset 48400 match
+K2 the step (us): the film 6250, the dataset 6250 match
+K3 encoder counts a turn, joint: the film 4096, the dataset 4096 match
+K3 encoder counts a turn, joint: the film 4096, the dataset 4096 match
+K3 encoder counts a turn, joint: the film 4096, the dataset 4096 match
+K3 encoder counts a turn, joint: the film 4096, the dataset 4096 match
+K3 encoder counts a turn, joint: the film 4096, the dataset 4096 match
+K3 encoder counts a turn, joint: the film 4096, the dataset 4096 match
+K3 the board's raise (um): the film 50000, the dataset 50000 match
+K3 a shape's thickness (um): the film 40000, the dataset 40000 match
+K3 a shape's thickness (um): the film 40000, the dataset 40000 match
+K3 a shape's thickness (um): the film 40000, the dataset 40000 match
+K3 a shape's thickness (um): the film 40000, the dataset 40000 match
+K3 a shape's thickness (um): the film 40000, the dataset 40000 match
+K3 the cutouts' larger side (um), against S3's offset: the film 3000, the dataset 3000 match
+K1 failing 0 K2 failing 0 K3 failing 0
+exit 42

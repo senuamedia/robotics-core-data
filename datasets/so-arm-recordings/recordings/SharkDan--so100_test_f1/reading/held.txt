@@ -1,0 +1,14 @@
+teach frames 59968 read frames 61275
+joint 0 states 42 distinct changes 130
+joint 1 states 59 distinct changes 202
+joint 2 states 48 distinct changes 186
+joint 3 states 26 distinct changes 120
+joint 4 states 50 distinct changes 132
+joint 5 states 39 distinct changes 79
+joint 0 unseen frames 27 of 61275
+joint 1 unseen frames 19 of 61275
+joint 2 unseen frames 21 of 61275
+joint 3 unseen frames 37 of 61275
+joint 4 unseen frames 36 of 61275
+joint 5 unseen frames 32 of 61275
+states written bytes 1353896

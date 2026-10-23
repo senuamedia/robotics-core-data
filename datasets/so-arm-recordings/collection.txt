@@ -1,0 +1,55 @@
+datasets 200 frames 41739183
+
+# World calibrated, every arm: 154 arms
+joint 1 median_world_over_b0_permille_x2 562 sr1 1 world_below_b0 153 of 154 median_world_over_b1_permille_x2 801 sr2 1 world_below_b1 153 of 154 median_world_rms_mdeg_x2 758 median_b0_rms_mdeg_x2 3054
+joint 2 median_world_over_b0_permille_x2 952 sr1 1 world_below_b0 139 of 154 median_world_over_b1_permille_x2 1285 sr2 1 world_below_b1 128 of 154 median_world_rms_mdeg_x2 3287 median_b0_rms_mdeg_x2 6618
+joint 3 median_world_over_b0_permille_x2 671 sr1 1 world_below_b0 148 of 154 median_world_over_b1_permille_x2 815 sr2 1 world_below_b1 146 of 154 median_world_rms_mdeg_x2 2413 median_b0_rms_mdeg_x2 7276
+joint 4 median_world_over_b0_permille_x2 945 sr1 1 world_below_b0 124 of 154 median_world_over_b1_permille_x2 1245 sr2 1 world_below_b1 111 of 154 median_world_rms_mdeg_x2 1820 median_b0_rms_mdeg_x2 3522
+joint 5 median_world_over_b0_permille_x2 628 sr1 1 world_below_b0 153 of 154 median_world_over_b1_permille_x2 877 sr2 1 world_below_b1 151 of 154 median_world_rms_mdeg_x2 775 median_b0_rms_mdeg_x2 2512
+joint 6 median_world_over_b0_permille_x2 1715 sr1 1 world_below_b0 146 of 154 median_world_over_b1_permille_x2 1840 sr2 1 world_below_b1 129 of 154 median_world_rms_mdeg_x2 7096 median_b0_rms_mdeg_x2 9516
+five_joints median_world_rms5_mdeg_x2 2350 median_b0_rms5_mdeg_x2 5404 median_b1_rms5_mdeg_x2 3997
+
+# World calibrated, development arms: 74 arms
+joint 1 median_world_over_b0_permille_x2 537 sr1 1 world_below_b0 74 of 74 median_world_over_b1_permille_x2 771 sr2 1 world_below_b1 74 of 74 median_world_rms_mdeg_x2 699 median_b0_rms_mdeg_x2 2887
+joint 2 median_world_over_b0_permille_x2 856 sr1 1 world_below_b0 68 of 74 median_world_over_b1_permille_x2 1167 sr2 1 world_below_b1 63 of 74 median_world_rms_mdeg_x2 3097 median_b0_rms_mdeg_x2 6592
+joint 3 median_world_over_b0_permille_x2 690 sr1 1 world_below_b0 70 of 74 median_world_over_b1_permille_x2 843 sr2 1 world_below_b1 70 of 74 median_world_rms_mdeg_x2 2401 median_b0_rms_mdeg_x2 7242
+joint 4 median_world_over_b0_permille_x2 937 sr1 1 world_below_b0 60 of 74 median_world_over_b1_permille_x2 1189 sr2 1 world_below_b1 56 of 74 median_world_rms_mdeg_x2 1501 median_b0_rms_mdeg_x2 3665
+joint 5 median_world_over_b0_permille_x2 623 sr1 1 world_below_b0 73 of 74 median_world_over_b1_permille_x2 860 sr2 1 world_below_b1 73 of 74 median_world_rms_mdeg_x2 742 median_b0_rms_mdeg_x2 2527
+joint 6 median_world_over_b0_permille_x2 1621 sr1 1 world_below_b0 70 of 74 median_world_over_b1_permille_x2 1781 sr2 1 world_below_b1 64 of 74 median_world_rms_mdeg_x2 6988 median_b0_rms_mdeg_x2 8741
+five_joints median_world_rms5_mdeg_x2 2246 median_b0_rms5_mdeg_x2 5442 median_b1_rms5_mdeg_x2 4058
+
+# World calibrated, sealed arms: 80 arms
+joint 1 median_world_over_b0_permille_x2 569 sr1 1 world_below_b0 79 of 80 median_world_over_b1_permille_x2 841 sr2 1 world_below_b1 79 of 80 median_world_rms_mdeg_x2 831 median_b0_rms_mdeg_x2 3080
+joint 2 median_world_over_b0_permille_x2 1059 sr1 1 world_below_b0 71 of 80 median_world_over_b1_permille_x2 1385 sr2 1 world_below_b1 65 of 80 median_world_rms_mdeg_x2 3602 median_b0_rms_mdeg_x2 6653
+joint 3 median_world_over_b0_permille_x2 637 sr1 1 world_below_b0 78 of 80 median_world_over_b1_permille_x2 795 sr2 1 world_below_b1 76 of 80 median_world_rms_mdeg_x2 2499 median_b0_rms_mdeg_x2 7371
+joint 4 median_world_over_b0_permille_x2 953 sr1 1 world_below_b0 64 of 80 median_world_over_b1_permille_x2 1286 sr2 1 world_below_b1 55 of 80 median_world_rms_mdeg_x2 2415 median_b0_rms_mdeg_x2 3355
+joint 5 median_world_over_b0_permille_x2 637 sr1 1 world_below_b0 80 of 80 median_world_over_b1_permille_x2 902 sr2 1 world_below_b1 78 of 80 median_world_rms_mdeg_x2 818 median_b0_rms_mdeg_x2 2489
+joint 6 median_world_over_b0_permille_x2 1802 sr1 1 world_below_b0 76 of 80 median_world_over_b1_permille_x2 1916 sr2 1 world_below_b1 65 of 80 median_world_rms_mdeg_x2 7314 median_b0_rms_mdeg_x2 9983
+five_joints median_world_rms5_mdeg_x2 2425 median_b0_rms5_mdeg_x2 5310 median_b1_rms5_mdeg_x2 3930
+
+# World out of the box, every arm: 154 arms
+joint 1 median_world_over_b0_permille_x2 854 sr1 1 world_below_b0 154 of 154 median_world_over_b1_permille_x2 1247 sr2 1 world_below_b1 153 of 154 median_world_rms_mdeg_x2 1381 median_b0_rms_mdeg_x2 3054
+joint 2 median_world_over_b0_permille_x2 1255 sr1 1 world_below_b0 137 of 154 median_world_over_b1_permille_x2 1672 sr2 1 world_below_b1 115 of 154 median_world_rms_mdeg_x2 4296 median_b0_rms_mdeg_x2 6618
+joint 3 median_world_over_b0_permille_x2 975 sr1 1 world_below_b0 148 of 154 median_world_over_b1_permille_x2 1218 sr2 1 world_below_b1 146 of 154 median_world_rms_mdeg_x2 3534 median_b0_rms_mdeg_x2 7276
+joint 4 median_world_over_b0_permille_x2 1160 sr1 1 world_below_b0 123 of 154 median_world_over_b1_permille_x2 1556 sr2 1 world_below_b1 108 of 154 median_world_rms_mdeg_x2 2564 median_b0_rms_mdeg_x2 3522
+joint 5 median_world_over_b0_permille_x2 863 sr1 1 world_below_b0 153 of 154 median_world_over_b1_permille_x2 1245 sr2 1 world_below_b1 153 of 154 median_world_rms_mdeg_x2 1105 median_b0_rms_mdeg_x2 2512
+joint 6 median_world_over_b0_permille_x2 1758 sr1 1 world_below_b0 145 of 154 median_world_over_b1_permille_x2 1890 sr2 1 world_below_b1 127 of 154 median_world_rms_mdeg_x2 7541 median_b0_rms_mdeg_x2 9516
+five_joints median_world_rms5_mdeg_x2 3267 median_b0_rms5_mdeg_x2 5404 median_b1_rms5_mdeg_x2 3997
+
+# World out of the box, development arms: 74 arms
+joint 1 median_world_over_b0_permille_x2 878 sr1 1 world_below_b0 74 of 74 median_world_over_b1_permille_x2 1232 sr2 1 world_below_b1 74 of 74 median_world_rms_mdeg_x2 1247 median_b0_rms_mdeg_x2 2887
+joint 2 median_world_over_b0_permille_x2 1191 sr1 1 world_below_b0 67 of 74 median_world_over_b1_permille_x2 1613 sr2 1 world_below_b1 60 of 74 median_world_rms_mdeg_x2 4090 median_b0_rms_mdeg_x2 6592
+joint 3 median_world_over_b0_permille_x2 976 sr1 1 world_below_b0 70 of 74 median_world_over_b1_permille_x2 1209 sr2 1 world_below_b1 70 of 74 median_world_rms_mdeg_x2 3534 median_b0_rms_mdeg_x2 7242
+joint 4 median_world_over_b0_permille_x2 1149 sr1 1 world_below_b0 60 of 74 median_world_over_b1_permille_x2 1476 sr2 1 world_below_b1 55 of 74 median_world_rms_mdeg_x2 2311 median_b0_rms_mdeg_x2 3665
+joint 5 median_world_over_b0_permille_x2 867 sr1 1 world_below_b0 73 of 74 median_world_over_b1_permille_x2 1282 sr2 1 world_below_b1 73 of 74 median_world_rms_mdeg_x2 1183 median_b0_rms_mdeg_x2 2527
+joint 6 median_world_over_b0_permille_x2 1656 sr1 1 world_below_b0 70 of 74 median_world_over_b1_permille_x2 1857 sr2 1 world_below_b1 63 of 74 median_world_rms_mdeg_x2 7358 median_b0_rms_mdeg_x2 8741
+five_joints median_world_rms5_mdeg_x2 3235 median_b0_rms5_mdeg_x2 5442 median_b1_rms5_mdeg_x2 4058
+
+# World out of the box, sealed arms: 80 arms
+joint 1 median_world_over_b0_permille_x2 839 sr1 1 world_below_b0 80 of 80 median_world_over_b1_permille_x2 1274 sr2 1 world_below_b1 79 of 80 median_world_rms_mdeg_x2 1393 median_b0_rms_mdeg_x2 3080
+joint 2 median_world_over_b0_permille_x2 1309 sr1 1 world_below_b0 70 of 80 median_world_over_b1_permille_x2 1760 sr2 1 world_below_b1 55 of 80 median_world_rms_mdeg_x2 4570 median_b0_rms_mdeg_x2 6653
+joint 3 median_world_over_b0_permille_x2 969 sr1 1 world_below_b0 78 of 80 median_world_over_b1_permille_x2 1230 sr2 1 world_below_b1 76 of 80 median_world_rms_mdeg_x2 3536 median_b0_rms_mdeg_x2 7371
+joint 4 median_world_over_b0_permille_x2 1237 sr1 1 world_below_b0 63 of 80 median_world_over_b1_permille_x2 1599 sr2 1 world_below_b1 53 of 80 median_world_rms_mdeg_x2 3133 median_b0_rms_mdeg_x2 3355
+joint 5 median_world_over_b0_permille_x2 841 sr1 1 world_below_b0 80 of 80 median_world_over_b1_permille_x2 1218 sr2 1 world_below_b1 80 of 80 median_world_rms_mdeg_x2 1040 median_b0_rms_mdeg_x2 2489
+joint 6 median_world_over_b0_permille_x2 1798 sr1 1 world_below_b0 75 of 80 median_world_over_b1_permille_x2 1932 sr2 1 world_below_b1 64 of 80 median_world_rms_mdeg_x2 7549 median_b0_rms_mdeg_x2 9983
+five_joints median_world_rms5_mdeg_x2 3269 median_b0_rms5_mdeg_x2 5310 median_b1_rms5_mdeg_x2 3930

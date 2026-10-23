@@ -1,0 +1,17 @@
+{
+ "id": "sajad2222/so101_semantic_pick_place_4cmd",
+ "revision": "9f2d45f61e28b2772b0ebfa618218f92076b2a59",
+ "licence": "apache-2.0",
+ "card_licence": "apache-2.0",
+ "author": "sajad2222",
+ "url": "https://huggingface.co/datasets/sajad2222/so101_semantic_pick_place_4cmd",
+ "last_modified": "2026-04-27T18:42:11.000Z",
+ "robot_type": "so_follower",
+ "format": "v3.0",
+ "fps": 30,
+ "episodes": 200,
+ "frames": 84170,
+ "parquet_files": 1,
+ "parquet_bytes": 2134580,
+ "rank": 255
+}

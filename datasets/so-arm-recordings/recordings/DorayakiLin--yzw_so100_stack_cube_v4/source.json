@@ -1,0 +1,17 @@
+{
+ "id": "DorayakiLin/yzw_so100_stack_cube_v4",
+ "revision": "da7c2ecf66ab30bff1ee455a83efc83b37a7781c",
+ "licence": "apache-2.0",
+ "card_licence": "apache-2.0",
+ "author": "DorayakiLin",
+ "url": "https://huggingface.co/datasets/DorayakiLin/yzw_so100_stack_cube_v4",
+ "last_modified": "2025-04-28T10:15:29.000Z",
+ "robot_type": "so100",
+ "format": "v2.1",
+ "fps": 30,
+ "episodes": 200,
+ "frames": 95833,
+ "parquet_files": 200,
+ "parquet_bytes": 5037444,
+ "rank": 208
+}

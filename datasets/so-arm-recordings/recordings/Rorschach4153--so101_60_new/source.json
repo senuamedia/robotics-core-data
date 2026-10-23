@@ -1,0 +1,17 @@
+{
+ "id": "Rorschach4153/so101_60_new",
+ "revision": "2fb98415dffcc50a48f7d221fd3faeb674a77e44",
+ "licence": "apache-2.0",
+ "card_licence": "apache-2.0",
+ "author": "Rorschach4153",
+ "url": "https://huggingface.co/datasets/Rorschach4153/so101_60_new",
+ "last_modified": "2025-05-21T09:08:52.000Z",
+ "robot_type": "so101",
+ "format": "v2.1",
+ "fps": 60,
+ "episodes": 115,
+ "frames": 155662,
+ "parquet_files": 115,
+ "parquet_bytes": 6676722,
+ "rank": 106
+}

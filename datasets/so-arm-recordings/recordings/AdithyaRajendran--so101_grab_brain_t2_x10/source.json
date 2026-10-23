@@ -1,0 +1,17 @@
+{
+ "id": "AdithyaRajendran/so101_grab_brain_t2_x10",
+ "revision": "23970dd8ea236f10ca63e52e76855b56bef9bb5f",
+ "licence": "apache-2.0",
+ "card_licence": "apache-2.0",
+ "author": "AdithyaRajendran",
+ "url": "https://huggingface.co/datasets/AdithyaRajendran/so101_grab_brain_t2_x10",
+ "last_modified": "2025-12-29T12:36:51.000Z",
+ "robot_type": "so101_follower",
+ "format": "v3.0",
+ "fps": 30,
+ "episodes": 2410,
+ "frames": 1008320,
+ "parquet_files": 1,
+ "parquet_bytes": 14142974,
+ "rank": 9
+}

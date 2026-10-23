@@ -1,0 +1,17 @@
+{
+ "id": "nepher-robotics/red_on_blue_7pos",
+ "revision": "777a1f239ac6698e8580b5dc0a286b39a5db37ab",
+ "licence": "apache-2.0",
+ "card_licence": "apache-2.0",
+ "author": "nepher-robotics",
+ "url": "https://huggingface.co/datasets/nepher-robotics/red_on_blue_7pos",
+ "last_modified": "2026-10-11T19:44:19.000Z",
+ "robot_type": "so_follower",
+ "format": "v3.0",
+ "fps": 30,
+ "episodes": 140,
+ "frames": 104859,
+ "parquet_files": 2,
+ "parquet_bytes": 3495103,
+ "rank": 186
+}

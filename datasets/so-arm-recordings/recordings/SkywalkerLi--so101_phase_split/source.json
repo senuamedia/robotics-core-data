@@ -1,0 +1,17 @@
+{
+ "id": "SkywalkerLi/so101_phase_split",
+ "revision": "c91d8ade3c0b0f0b45f1eba2ad5c06c152f62b32",
+ "licence": "apache-2.0",
+ "card_licence": "apache-2.0",
+ "author": "SkywalkerLi",
+ "url": "https://huggingface.co/datasets/SkywalkerLi/so101_phase_split",
+ "last_modified": "2026-05-01T15:11:36.000Z",
+ "robot_type": "so_follower",
+ "format": "v3.0",
+ "fps": 30,
+ "episodes": 9440,
+ "frames": 5740440,
+ "parquet_files": 1,
+ "parquet_bytes": 121298609,
+ "rank": 1
+}

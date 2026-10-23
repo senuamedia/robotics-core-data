@@ -1,0 +1,17 @@
+{
+ "id": "emboss369/so101_lego_20260613_20260613_131100",
+ "revision": "19002ef4e25b738a944439c4a6d0ede0421a5383",
+ "licence": "apache-2.0",
+ "card_licence": "apache-2.0",
+ "author": "emboss369",
+ "url": "https://huggingface.co/datasets/emboss369/so101_lego_20260613_20260613_131100",
+ "last_modified": "2026-06-14T22:57:25.000Z",
+ "robot_type": "so_follower",
+ "format": "v3.0",
+ "fps": 30,
+ "episodes": 201,
+ "frames": 119104,
+ "parquet_files": 17,
+ "parquet_bytes": 5585982,
+ "rank": 150
+}

@@ -1,0 +1,17 @@
+{
+ "id": "thinhpt/so101_train_merged_1205",
+ "revision": "756eb0678a0b56585635656a5d09ab9a34c897ba",
+ "licence": "apache-2.0",
+ "card_licence": "apache-2.0",
+ "author": "thinhpt",
+ "url": "https://huggingface.co/datasets/thinhpt/so101_train_merged_1205",
+ "last_modified": "2026-05-12T06:27:04.000Z",
+ "robot_type": "so101_follower",
+ "format": "v3.0",
+ "fps": 30,
+ "episodes": 200,
+ "frames": 78598,
+ "parquet_files": 1,
+ "parquet_bytes": 2092202,
+ "rank": 273
+}

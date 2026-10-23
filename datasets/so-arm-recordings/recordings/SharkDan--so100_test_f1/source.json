@@ -1,0 +1,17 @@
+{
+ "id": "SharkDan/so100_test_f1",
+ "revision": "717a4c3b3e90f49c927f7efa57b06e5926a5edd7",
+ "licence": "apache-2.0",
+ "card_licence": "apache-2.0",
+ "author": "SharkDan",
+ "url": "https://huggingface.co/datasets/SharkDan/so100_test_f1",
+ "last_modified": "2025-05-23T07:03:35.000Z",
+ "robot_type": "so100",
+ "format": "v2.1",
+ "fps": 30,
+ "episodes": 200,
+ "frames": 120674,
+ "parquet_files": 200,
+ "parquet_bytes": 5322435,
+ "rank": 145
+}

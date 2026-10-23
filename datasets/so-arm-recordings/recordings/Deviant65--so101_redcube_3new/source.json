@@ -1,0 +1,17 @@
+{
+ "id": "Deviant65/so101_redcube_3new",
+ "revision": "bc1309447aa0c98c03fd20120a50a156cc57c279",
+ "licence": "apache-2.0",
+ "card_licence": "apache-2.0",
+ "author": "Deviant65",
+ "url": "https://huggingface.co/datasets/Deviant65/so101_redcube_3new",
+ "last_modified": "2026-10-13T12:13:07.000Z",
+ "robot_type": "so_follower",
+ "format": "v3.0",
+ "fps": 30,
+ "episodes": 143,
+ "frames": 132974,
+ "parquet_files": 8,
+ "parquet_bytes": 4899253,
+ "rank": 132
+}

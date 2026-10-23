@@ -1,0 +1,17 @@
+{
+ "id": "gimarchetti/so101-winnie-us7",
+ "revision": "a48be0b262e75b12ee8c672c47592d4f45c0f409",
+ "licence": "apache-2.0",
+ "card_licence": "apache-2.0",
+ "author": "gimarchetti",
+ "url": "https://huggingface.co/datasets/gimarchetti/so101-winnie-us7",
+ "last_modified": "2025-10-12T22:36:52.000Z",
+ "robot_type": "so101_follower",
+ "format": "v3.0",
+ "fps": 30,
+ "episodes": 121,
+ "frames": 139436,
+ "parquet_files": 1,
+ "parquet_bytes": 3458070,
+ "rank": 124
+}

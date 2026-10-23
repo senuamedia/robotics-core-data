@@ -1,0 +1,17 @@
+{
+ "id": "AkshayM-X/so101_pick_place_merged_first_400Epi",
+ "revision": "b8286b2151253b4632405ecdeb13ee0e2e32d996",
+ "licence": "apache-2.0",
+ "card_licence": "apache-2.0",
+ "author": "AkshayM-X",
+ "url": "https://huggingface.co/datasets/AkshayM-X/so101_pick_place_merged_first_400Epi",
+ "last_modified": "2026-07-20T14:17:16.000Z",
+ "robot_type": "so_follower",
+ "format": "v3.0",
+ "fps": 30,
+ "episodes": 400,
+ "frames": 448726,
+ "parquet_files": 1,
+ "parquet_bytes": 8499404,
+ "rank": 28
+}

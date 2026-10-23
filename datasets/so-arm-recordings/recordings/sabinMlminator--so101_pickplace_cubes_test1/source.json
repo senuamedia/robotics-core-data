@@ -1,0 +1,17 @@
+{
+ "id": "sabinMlminator/so101_pickplace_cubes_test1",
+ "revision": "8eacc9be761b90099f3e762bf2384366e4690563",
+ "licence": "apache-2.0",
+ "card_licence": "apache-2.0",
+ "author": "sabinMlminator",
+ "url": "https://huggingface.co/datasets/sabinMlminator/so101_pickplace_cubes_test1",
+ "last_modified": "2025-10-30T16:10:38.000Z",
+ "robot_type": "so101_follower",
+ "format": "v3.0",
+ "fps": 30,
+ "episodes": 202,
+ "frames": 208133,
+ "parquet_files": 25,
+ "parquet_bytes": 7471846,
+ "rank": 72
+}

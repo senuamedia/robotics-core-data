@@ -1,0 +1,17 @@
+{
+ "id": "fljjoin/so100_testcubo20",
+ "revision": "72610c55a02b2fb203427051338aac355ebe8ff8",
+ "licence": "apache-2.0",
+ "card_licence": "apache-2.0",
+ "author": "fljjoin",
+ "url": "https://huggingface.co/datasets/fljjoin/so100_testcubo20",
+ "last_modified": "2025-02-05T19:13:28.000Z",
+ "robot_type": "so100",
+ "format": "v2.0",
+ "fps": 30,
+ "episodes": 40,
+ "frames": 118828,
+ "parquet_files": 40,
+ "parquet_bytes": 5229855,
+ "rank": 152
+}

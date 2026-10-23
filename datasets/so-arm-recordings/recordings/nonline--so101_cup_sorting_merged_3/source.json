@@ -1,0 +1,17 @@
+{
+ "id": "nonline/so101_cup_sorting_merged_3",
+ "revision": "676295bf8b8d5a5f1ef90022933ab84e1f50e4f6",
+ "licence": "apache-2.0",
+ "card_licence": "apache-2.0",
+ "author": "nonline",
+ "url": "https://huggingface.co/datasets/nonline/so101_cup_sorting_merged_3",
+ "last_modified": "2026-02-18T14:58:31.000Z",
+ "robot_type": "so101_follower",
+ "format": "v3.0",
+ "fps": 30,
+ "episodes": 305,
+ "frames": 230588,
+ "parquet_files": 2,
+ "parquet_bytes": 9728162,
+ "rank": 62
+}

@@ -1,0 +1,17 @@
+{
+ "id": "BoiWanKenobi/lerobot_so101_put_in_pot",
+ "revision": "892ef845c606dbe0c9a2d27be834795fdf20ddc5",
+ "licence": "apache-2.0",
+ "card_licence": "apache-2.0",
+ "author": "BoiWanKenobi",
+ "url": "https://huggingface.co/datasets/BoiWanKenobi/lerobot_so101_put_in_pot",
+ "last_modified": "2026-08-08T09:41:49.000Z",
+ "robot_type": "so_follower",
+ "format": "v3.0",
+ "fps": 30,
+ "episodes": 161,
+ "frames": 81993,
+ "parquet_files": 9,
+ "parquet_bytes": 3441644,
+ "rank": 260
+}

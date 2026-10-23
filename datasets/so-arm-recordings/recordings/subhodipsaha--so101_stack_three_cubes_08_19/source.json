@@ -1,0 +1,17 @@
+{
+ "id": "subhodipsaha/so101_stack_three_cubes_08_19",
+ "revision": "8311b76246ef0a02f33f996edbef40031251a85b",
+ "licence": "apache-2.0",
+ "card_licence": "apache-2.0",
+ "author": "subhodipsaha",
+ "url": "https://huggingface.co/datasets/subhodipsaha/so101_stack_three_cubes_08_19",
+ "last_modified": "2026-09-17T04:50:53.000Z",
+ "robot_type": "so_follower",
+ "format": "v3.0",
+ "fps": 25,
+ "episodes": 119,
+ "frames": 74399,
+ "parquet_files": 6,
+ "parquet_bytes": 1595754,
+ "rank": 295
+}

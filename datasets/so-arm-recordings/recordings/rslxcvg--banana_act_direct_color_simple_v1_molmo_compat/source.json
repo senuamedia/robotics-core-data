@@ -1,0 +1,17 @@
+{
+ "id": "rslxcvg/banana_act_direct_color_simple_v1_molmo_compat",
+ "revision": "7c0a1397cbba7fed9a685b875fe31bfc2021ee62",
+ "licence": "apache-2.0",
+ "card_licence": "apache-2.0",
+ "author": "rslxcvg",
+ "url": "https://huggingface.co/datasets/rslxcvg/banana_act_direct_color_simple_v1_molmo_compat",
+ "last_modified": "2026-05-18T21:54:42.000Z",
+ "robot_type": "so_follower",
+ "format": "v3.0",
+ "fps": 30,
+ "episodes": 360,
+ "frames": 150084,
+ "parquet_files": 3,
+ "parquet_bytes": 1760022,
+ "rank": 108
+}

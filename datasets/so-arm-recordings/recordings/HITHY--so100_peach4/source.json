@@ -1,0 +1,17 @@
+{
+ "id": "HITHY/so100_peach4",
+ "revision": "e63a36d0e6be83c48d0223a913aef4d8da4f0851",
+ "licence": "apache-2.0",
+ "card_licence": "apache-2.0",
+ "author": "HITHY",
+ "url": "https://huggingface.co/datasets/HITHY/so100_peach4",
+ "last_modified": "2025-02-17T03:29:18.000Z",
+ "robot_type": "so100",
+ "format": "v2.0",
+ "fps": 30,
+ "episodes": 400,
+ "frames": 98409,
+ "parquet_files": 400,
+ "parquet_bytes": 6816421,
+ "rank": 205
+}

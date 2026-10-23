@@ -1,0 +1,17 @@
+{
+ "id": "karthikpythireddi93/breakfast_sandiwch",
+ "revision": "c7f8ccdf2aa88cba84a279e59685dc49dab96c64",
+ "licence": "apache-2.0",
+ "card_licence": "apache-2.0",
+ "author": "karthikpythireddi93",
+ "url": "https://huggingface.co/datasets/karthikpythireddi93/breakfast_sandiwch",
+ "last_modified": "2025-10-26T05:15:57.000Z",
+ "robot_type": "so101_follower",
+ "format": "v3.0",
+ "fps": 30,
+ "episodes": 103,
+ "frames": 84738,
+ "parquet_files": 1,
+ "parquet_bytes": 2129455,
+ "rank": 253
+}

@@ -1,0 +1,17 @@
+{
+ "id": "OlenaG/chesster_v1",
+ "revision": "b1896a8afd68512117d57566036386ff5ee49ae2",
+ "licence": "apache-2.0",
+ "card_licence": "apache-2.0",
+ "author": "OlenaG",
+ "url": "https://huggingface.co/datasets/OlenaG/chesster_v1",
+ "last_modified": "2026-10-07T14:27:53.000Z",
+ "robot_type": "so_follower",
+ "format": "v3.0",
+ "fps": 30,
+ "episodes": 201,
+ "frames": 210526,
+ "parquet_files": 70,
+ "parquet_bytes": 9010292,
+ "rank": 71
+}

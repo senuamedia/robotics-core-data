@@ -1,0 +1,17 @@
+{
+ "id": "HCIS-Lab/soarm101-feeding-nuts",
+ "revision": "1dbb94e8fcb9b3bd5f38b410aa3d00ed0e45ae98",
+ "licence": "apache-2.0",
+ "card_licence": "apache-2.0",
+ "author": "HCIS-Lab",
+ "url": "https://huggingface.co/datasets/HCIS-Lab/soarm101-feeding-nuts",
+ "last_modified": "2025-11-19T13:58:46.000Z",
+ "robot_type": "so101_follower",
+ "format": "v3.0",
+ "fps": 30,
+ "episodes": 80,
+ "frames": 74355,
+ "parquet_files": 20,
+ "parquet_bytes": 3393902,
+ "rank": 297
+}

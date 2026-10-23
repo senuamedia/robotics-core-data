@@ -1,0 +1,17 @@
+{
+ "id": "louis126584/so101-test5",
+ "revision": "aef5c5b01cef1e0f1a75147f5202004e09e6b8a6",
+ "licence": "apache-2.0",
+ "card_licence": "apache-2.0",
+ "author": "louis126584",
+ "url": "https://huggingface.co/datasets/louis126584/so101-test5",
+ "last_modified": "2026-02-06T10:24:09.000Z",
+ "robot_type": "so_follower",
+ "format": "v3.0",
+ "fps": 30,
+ "episodes": 136,
+ "frames": 117829,
+ "parquet_files": 1,
+ "parquet_bytes": 3650534,
+ "rank": 153
+}

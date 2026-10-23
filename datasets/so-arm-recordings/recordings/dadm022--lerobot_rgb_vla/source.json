@@ -1,0 +1,17 @@
+{
+ "id": "dadm022/lerobot_rgb_vla",
+ "revision": "cd609965081e01cdb8de3304e102d41e399d8daa",
+ "licence": "mit",
+ "card_licence": "mit",
+ "author": "dadm022",
+ "url": "https://huggingface.co/datasets/dadm022/lerobot_rgb_vla",
+ "last_modified": "2026-08-14T09:30:44.000Z",
+ "robot_type": "so_follower",
+ "format": "v3.0",
+ "fps": 30,
+ "episodes": 2318,
+ "frames": 2487292,
+ "parquet_files": 2318,
+ "parquet_bytes": 106328708,
+ "rank": 4
+}

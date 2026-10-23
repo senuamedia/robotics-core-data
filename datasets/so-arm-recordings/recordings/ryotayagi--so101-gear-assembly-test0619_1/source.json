@@ -1,0 +1,17 @@
+{
+ "id": "ryotayagi/so101-gear-assembly-test0619_1",
+ "revision": "3932a3be844b453210f20b15d08f620b1b411097",
+ "licence": "apache-2.0",
+ "card_licence": "apache-2.0",
+ "author": "ryotayagi",
+ "url": "https://huggingface.co/datasets/ryotayagi/so101-gear-assembly-test0619_1",
+ "last_modified": "2026-06-20T04:37:13.000Z",
+ "robot_type": "so101_follower",
+ "format": "v3.0",
+ "fps": 30,
+ "episodes": 100,
+ "frames": 114169,
+ "parquet_files": 101,
+ "parquet_bytes": 7281556,
+ "rank": 165
+}

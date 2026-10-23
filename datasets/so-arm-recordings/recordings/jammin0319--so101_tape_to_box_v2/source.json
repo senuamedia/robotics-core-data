@@ -1,0 +1,17 @@
+{
+ "id": "jammin0319/so101_tape_to_box_v2",
+ "revision": "bb465907ffb5e99e0e0b99e311916575f29b967a",
+ "licence": "apache-2.0",
+ "card_licence": "apache-2.0",
+ "author": "jammin0319",
+ "url": "https://huggingface.co/datasets/jammin0319/so101_tape_to_box_v2",
+ "last_modified": "2026-10-14T04:06:48.000Z",
+ "robot_type": "so_follower",
+ "format": "v3.0",
+ "fps": 30,
+ "episodes": 100,
+ "frames": 91889,
+ "parquet_files": 10,
+ "parquet_bytes": 3732099,
+ "rank": 221
+}

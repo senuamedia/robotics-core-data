@@ -1,0 +1,17 @@
+{
+ "id": "denys1912/so101_cube_in_box_v2_20260803_193625",
+ "revision": "fdce6eb529bb0367624bdc5d65650d4981825c46",
+ "licence": "apache-2.0",
+ "card_licence": "apache-2.0",
+ "author": "denys1912",
+ "url": "https://huggingface.co/datasets/denys1912/so101_cube_in_box_v2_20260803_193625",
+ "last_modified": "2026-08-30T09:53:22.000Z",
+ "robot_type": "so_follower",
+ "format": "v3.0",
+ "fps": 30,
+ "episodes": 260,
+ "frames": 112045,
+ "parquet_files": 16,
+ "parquet_bytes": 5701369,
+ "rank": 167
+}

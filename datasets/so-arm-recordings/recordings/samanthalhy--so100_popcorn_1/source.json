@@ -1,0 +1,17 @@
+{
+ "id": "samanthalhy/so100_popcorn_1",
+ "revision": "feb9f146a8af68fc030d49804793940eddaa408f",
+ "licence": "apache-2.0",
+ "card_licence": "apache-2.0",
+ "author": "samanthalhy",
+ "url": "https://huggingface.co/datasets/samanthalhy/so100_popcorn_1",
+ "last_modified": "2026-09-21T08:37:26.000Z",
+ "robot_type": "so100_follower",
+ "format": "v2.1",
+ "fps": 30,
+ "episodes": 202,
+ "frames": 367883,
+ "parquet_files": 202,
+ "parquet_bytes": 17293021,
+ "rank": 34
+}

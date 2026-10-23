@@ -1,0 +1,17 @@
+{
+ "id": "FeiYjf/new_GtoR",
+ "revision": "c3fba3ed78de36d602885c2d9569cff82fcff494",
+ "licence": "apache-2.0",
+ "card_licence": "apache-2.0",
+ "author": "FeiYjf",
+ "url": "https://huggingface.co/datasets/FeiYjf/new_GtoR",
+ "last_modified": "2025-01-22T02:50:45.000Z",
+ "robot_type": "so100",
+ "format": "v2.0",
+ "fps": 30,
+ "episodes": 378,
+ "frames": 126369,
+ "parquet_files": 378,
+ "parquet_bytes": 6504835,
+ "rank": 138
+}

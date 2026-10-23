@@ -1,0 +1,4 @@
+# The calibration identified for this arm from the first half of its own recording (amendment 14)
+
+command_latency_ms	50.0
+servo_stiffness_n_m_per_rad	8.9

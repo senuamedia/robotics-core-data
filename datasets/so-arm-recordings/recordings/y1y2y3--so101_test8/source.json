@@ -1,0 +1,17 @@
+{
+ "id": "y1y2y3/so101_test8",
+ "revision": "c1818a633ce9fe6b1ef0dd4246f49defc94edd10",
+ "licence": "apache-2.0",
+ "card_licence": "apache-2.0",
+ "author": "y1y2y3",
+ "url": "https://huggingface.co/datasets/y1y2y3/so101_test8",
+ "last_modified": "2025-10-04T04:10:19.000Z",
+ "robot_type": "so101_follower",
+ "format": "v3.0",
+ "fps": 30,
+ "episodes": 250,
+ "frames": 111973,
+ "parquet_files": 1,
+ "parquet_bytes": 2983178,
+ "rank": 169
+}

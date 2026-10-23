@@ -1,0 +1,17 @@
+{
+ "id": "pranavsaroha/so100_medicine_0605",
+ "revision": "3838f8c932d933804a79d17f52c456b59932840b",
+ "licence": "apache-2.0",
+ "card_licence": "apache-2.0",
+ "author": "pranavsaroha",
+ "url": "https://huggingface.co/datasets/pranavsaroha/so100_medicine_0605",
+ "last_modified": "2025-06-06T09:53:50.000Z",
+ "robot_type": "so100",
+ "format": "v2.1",
+ "fps": 30,
+ "episodes": 40,
+ "frames": 90315,
+ "parquet_files": 40,
+ "parquet_bytes": 4383370,
+ "rank": 228
+}

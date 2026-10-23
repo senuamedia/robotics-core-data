@@ -1,0 +1,17 @@
+{
+ "id": "zhenxuan/so100-put-apricot",
+ "revision": "8795a43916c509d188978ad0866c1cbb06c90e72",
+ "licence": "apache-2.0",
+ "card_licence": "apache-2.0",
+ "author": "zhenxuan",
+ "url": "https://huggingface.co/datasets/zhenxuan/so100-put-apricot",
+ "last_modified": "2026-04-25T04:32:27.000Z",
+ "robot_type": "so_follower",
+ "format": "v3.0",
+ "fps": 30,
+ "episodes": 63,
+ "frames": 96108,
+ "parquet_files": 3,
+ "parquet_bytes": 4738040,
+ "rank": 207
+}

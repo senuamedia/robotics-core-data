@@ -1,0 +1,17 @@
+{
+ "id": "dragon-95/so100_sorting_2",
+ "revision": "a71a18c9566aebf1fe169b452f31397161a46ae6",
+ "licence": "apache-2.0",
+ "card_licence": "apache-2.0",
+ "author": "dragon-95",
+ "url": "https://huggingface.co/datasets/dragon-95/so100_sorting_2",
+ "last_modified": "2025-02-07T11:59:32.000Z",
+ "robot_type": "so100",
+ "format": "v2.0",
+ "fps": 30,
+ "episodes": 220,
+ "frames": 169922,
+ "parquet_files": 220,
+ "parquet_bytes": 8526768,
+ "rank": 98
+}

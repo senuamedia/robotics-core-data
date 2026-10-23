@@ -1,0 +1,17 @@
+{
+ "id": "TomasAnderegg/so101_pill_sorting_v3",
+ "revision": "1d5758b230b42598449cf3731f745482d560b03b",
+ "licence": "apache-2.0",
+ "card_licence": "apache-2.0",
+ "author": "TomasAnderegg",
+ "url": "https://huggingface.co/datasets/TomasAnderegg/so101_pill_sorting_v3",
+ "last_modified": "2026-10-22T21:08:50.000Z",
+ "robot_type": "so_follower",
+ "format": "v3.0",
+ "fps": 30,
+ "episodes": 300,
+ "frames": 242137,
+ "parquet_files": 300,
+ "parquet_bytes": 10438471,
+ "rank": 56
+}

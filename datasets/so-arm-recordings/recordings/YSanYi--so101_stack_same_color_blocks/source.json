@@ -1,0 +1,17 @@
+{
+ "id": "YSanYi/so101_stack_same_color_blocks",
+ "revision": "3e9f0775febe5d7295af8efc23dc09e5a4de3b30",
+ "licence": "apache-2.0",
+ "card_licence": "apache-2.0",
+ "author": "YSanYi",
+ "url": "https://huggingface.co/datasets/YSanYi/so101_stack_same_color_blocks",
+ "last_modified": "2025-11-26T05:19:02.000Z",
+ "robot_type": "so101_follower",
+ "format": "v3.0",
+ "fps": 30,
+ "episodes": 122,
+ "frames": 81056,
+ "parquet_files": 4,
+ "parquet_bytes": 3558234,
+ "rank": 264
+}

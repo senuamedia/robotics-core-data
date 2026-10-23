@@ -1,0 +1,17 @@
+{
+ "id": "soulstarz/so101_pickplace_plus",
+ "revision": "09e3853db8e9221da2025e2b8ee03dc0f556aaf2",
+ "licence": "apache-2.0",
+ "card_licence": "apache-2.0",
+ "author": "soulstarz",
+ "url": "https://huggingface.co/datasets/soulstarz/so101_pickplace_plus",
+ "last_modified": "2026-06-18T15:30:38.000Z",
+ "robot_type": "so_follower",
+ "format": "v3.0",
+ "fps": 30,
+ "episodes": 200,
+ "frames": 178763,
+ "parquet_files": 5,
+ "parquet_bytes": 8522368,
+ "rank": 93
+}

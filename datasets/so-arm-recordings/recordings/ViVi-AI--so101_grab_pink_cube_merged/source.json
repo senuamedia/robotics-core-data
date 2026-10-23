@@ -1,0 +1,17 @@
+{
+ "id": "ViVi-AI/so101_grab_pink_cube_merged",
+ "revision": "b95afa84ba95823969e413ad81bacf3e43b1a1a1",
+ "licence": "apache-2.0",
+ "card_licence": "apache-2.0",
+ "author": "ViVi-AI",
+ "url": "https://huggingface.co/datasets/ViVi-AI/so101_grab_pink_cube_merged",
+ "last_modified": "2026-07-15T01:19:23.000Z",
+ "robot_type": "so_follower",
+ "format": "v3.0",
+ "fps": 30,
+ "episodes": 140,
+ "frames": 111154,
+ "parquet_files": 1,
+ "parquet_bytes": 5165156,
+ "rank": 172
+}

@@ -1,0 +1,17 @@
+{
+ "id": "RonLiao/lerobot-so101-elevator-6btn-dual-cam",
+ "revision": "fec00ee4e3290a4b3de2191efed773cb06125056",
+ "licence": "apache-2.0",
+ "card_licence": "apache-2.0",
+ "author": "RonLiao",
+ "url": "https://huggingface.co/datasets/RonLiao/lerobot-so101-elevator-6btn-dual-cam",
+ "last_modified": "2026-05-29T03:22:00.000Z",
+ "robot_type": "so101_follower",
+ "format": "v3.0",
+ "fps": 30,
+ "episodes": 600,
+ "frames": 144494,
+ "parquet_files": 18,
+ "parquet_bytes": 7083970,
+ "rank": 120
+}

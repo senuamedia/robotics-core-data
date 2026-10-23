@@ -1,0 +1,17 @@
+{
+ "id": "csacan/SO101-eval2-brg-25prompts",
+ "revision": "6583cba56855a2d4f542b4d87c1990a8786a30af",
+ "licence": "apache-2.0",
+ "card_licence": "apache-2.0",
+ "author": "csacan",
+ "url": "https://huggingface.co/datasets/csacan/SO101-eval2-brg-25prompts",
+ "last_modified": "2026-05-19T18:33:08.000Z",
+ "robot_type": "so_follower",
+ "format": "v3.0",
+ "fps": 30,
+ "episodes": 250,
+ "frames": 112015,
+ "parquet_files": 25,
+ "parquet_bytes": 3503119,
+ "rank": 168
+}

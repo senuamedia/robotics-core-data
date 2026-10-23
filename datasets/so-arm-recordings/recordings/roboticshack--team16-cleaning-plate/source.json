@@ -1,0 +1,17 @@
+{
+ "id": "roboticshack/team16-cleaning-plate",
+ "revision": "62ed0e9eeace8be0cb740e1452dad3a1a8f50ac7",
+ "licence": "apache-2.0",
+ "card_licence": "apache-2.0",
+ "author": "roboticshack",
+ "url": "https://huggingface.co/datasets/roboticshack/team16-cleaning-plate",
+ "last_modified": "2025-04-13T04:35:23.000Z",
+ "robot_type": "so100",
+ "format": "v2.1",
+ "fps": 30,
+ "episodes": 100,
+ "frames": 74893,
+ "parquet_files": 100,
+ "parquet_bytes": 3898337,
+ "rank": 290
+}

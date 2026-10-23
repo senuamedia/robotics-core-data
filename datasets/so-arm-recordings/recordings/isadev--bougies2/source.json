@@ -1,0 +1,17 @@
+{
+ "id": "isadev/bougies2",
+ "revision": "04cb81231cec6404717ad62d927563923bd57438",
+ "licence": "apache-2.0",
+ "card_licence": "apache-2.0",
+ "author": "isadev",
+ "url": "https://huggingface.co/datasets/isadev/bougies2",
+ "last_modified": "2025-04-11T13:41:52.000Z",
+ "robot_type": "so100",
+ "format": "v2.1",
+ "fps": 30,
+ "episodes": 200,
+ "frames": 85934,
+ "parquet_files": 200,
+ "parquet_bytes": 5089292,
+ "rank": 248
+}

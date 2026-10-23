@@ -1,0 +1,17 @@
+{
+ "id": "charleyong/so100_tic_tac_toe_autoend",
+ "revision": "7601cb6353bfb19faf613d2d5f778157ca4ba701",
+ "licence": "apache-2.0",
+ "card_licence": "apache-2.0",
+ "author": "charleyong",
+ "url": "https://huggingface.co/datasets/charleyong/so100_tic_tac_toe_autoend",
+ "last_modified": "2025-05-17T03:11:02.000Z",
+ "robot_type": "so100",
+ "format": "v2.1",
+ "fps": 30,
+ "episodes": 180,
+ "frames": 74377,
+ "parquet_files": 180,
+ "parquet_bytes": 4266501,
+ "rank": 296
+}

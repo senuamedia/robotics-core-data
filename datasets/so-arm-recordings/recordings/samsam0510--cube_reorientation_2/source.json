@@ -1,0 +1,17 @@
+{
+ "id": "samsam0510/cube_reorientation_2",
+ "revision": "01a6af3fba3da975571f751d33d3b04b3431ac6a",
+ "licence": "apache-2.0",
+ "card_licence": "apache-2.0",
+ "author": "samsam0510",
+ "url": "https://huggingface.co/datasets/samsam0510/cube_reorientation_2",
+ "last_modified": "2025-02-27T15:33:36.000Z",
+ "robot_type": "so100",
+ "format": "v2.0",
+ "fps": 30,
+ "episodes": 182,
+ "frames": 115586,
+ "parquet_files": 182,
+ "parquet_bytes": 5799412,
+ "rank": 161
+}

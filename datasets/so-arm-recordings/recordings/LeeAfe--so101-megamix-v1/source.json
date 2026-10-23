@@ -1,0 +1,17 @@
+{
+ "id": "LeeAfe/so101-megamix-v1",
+ "revision": "dbccad3b8069ff1f868569482e159109b2cd3eee",
+ "licence": "apache-2.0",
+ "card_licence": "apache-2.0",
+ "author": "LeeAfe",
+ "url": "https://huggingface.co/datasets/LeeAfe/so101-megamix-v1",
+ "last_modified": "2026-03-04T17:27:30.000Z",
+ "robot_type": "so101_follower",
+ "format": "v3.0",
+ "fps": 30,
+ "episodes": 400,
+ "frames": 179166,
+ "parquet_files": 1,
+ "parquet_bytes": 4686761,
+ "rank": 91
+}

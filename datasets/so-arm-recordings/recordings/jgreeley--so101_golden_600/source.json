@@ -1,0 +1,17 @@
+{
+ "id": "jgreeley/so101_golden_600",
+ "revision": "cd1ba4b593bf397421fadb147eb1ef3b8078634a",
+ "licence": "apache-2.0",
+ "card_licence": "apache-2.0",
+ "author": "jgreeley",
+ "url": "https://huggingface.co/datasets/jgreeley/so101_golden_600",
+ "last_modified": "2026-08-06T21:03:47.000Z",
+ "robot_type": "so_follower",
+ "format": "v3.0",
+ "fps": 30,
+ "episodes": 518,
+ "frames": 302322,
+ "parquet_files": 14,
+ "parquet_bytes": 13694775,
+ "rank": 41
+}

@@ -1,0 +1,17 @@
+{
+ "id": "hungho77/so101-ai20k-multitask",
+ "revision": "7634de5170a8330eee67a49fdf3d786e1e79b169",
+ "licence": "apache-2.0",
+ "card_licence": "apache-2.0",
+ "author": "hungho77",
+ "url": "https://huggingface.co/datasets/hungho77/so101-ai20k-multitask",
+ "last_modified": "2026-09-26T04:33:14.000Z",
+ "robot_type": "so_follower",
+ "format": "v3.0",
+ "fps": 30,
+ "episodes": 455,
+ "frames": 221916,
+ "parquet_files": 1,
+ "parquet_bytes": 10624004,
+ "rank": 66
+}

@@ -1,0 +1,17 @@
+{
+ "id": "fuemocheng/record_so101_mahjong_test01",
+ "revision": "cdf192276dfbbdd0851b83992aeff5158b7ebe09",
+ "licence": "apache-2.0",
+ "card_licence": "apache-2.0",
+ "author": "fuemocheng",
+ "url": "https://huggingface.co/datasets/fuemocheng/record_so101_mahjong_test01",
+ "last_modified": "2025-08-16T19:07:48.000Z",
+ "robot_type": "so101_follower",
+ "format": "v2.1",
+ "fps": 30,
+ "episodes": 60,
+ "frames": 87855,
+ "parquet_files": 60,
+ "parquet_bytes": 4368877,
+ "rank": 241
+}

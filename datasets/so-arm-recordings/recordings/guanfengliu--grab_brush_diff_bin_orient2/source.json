@@ -1,0 +1,17 @@
+{
+ "id": "guanfengliu/grab_brush_diff_bin_orient2",
+ "revision": "028557af09333fdf2ce5cfc2b5ae269feead498e",
+ "licence": "apache-2.0",
+ "card_licence": "apache-2.0",
+ "author": "guanfengliu",
+ "url": "https://huggingface.co/datasets/guanfengliu/grab_brush_diff_bin_orient2",
+ "last_modified": "2025-09-06T00:07:35.000Z",
+ "robot_type": "so101",
+ "format": "v2.1",
+ "fps": 30,
+ "episodes": 80,
+ "frames": 95162,
+ "parquet_files": 80,
+ "parquet_bytes": 3488377,
+ "rank": 211
+}

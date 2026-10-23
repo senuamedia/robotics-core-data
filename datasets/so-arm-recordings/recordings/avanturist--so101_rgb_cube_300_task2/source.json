@@ -1,0 +1,17 @@
+{
+ "id": "avanturist/so101_rgb_cube_300_task2",
+ "revision": "41ef2926dec224394c2ee28aca1cbddfc903fb1f",
+ "licence": "apache-2.0",
+ "card_licence": "apache-2.0",
+ "author": "avanturist",
+ "url": "https://huggingface.co/datasets/avanturist/so101_rgb_cube_300_task2",
+ "last_modified": "2025-11-28T22:20:58.000Z",
+ "robot_type": "so101_follower",
+ "format": "v3.0",
+ "fps": 30,
+ "episodes": 301,
+ "frames": 91134,
+ "parquet_files": 4,
+ "parquet_bytes": 4046020,
+ "rank": 223
+}

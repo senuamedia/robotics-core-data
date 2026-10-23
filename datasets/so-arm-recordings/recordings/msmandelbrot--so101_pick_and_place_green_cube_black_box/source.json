@@ -1,0 +1,17 @@
+{
+ "id": "msmandelbrot/so101_pick_and_place_green_cube_black_box",
+ "revision": "0a93549e1675e9c5f8fa1a95fa54481582d4f09f",
+ "licence": "apache-2.0",
+ "card_licence": "apache-2.0",
+ "author": "msmandelbrot",
+ "url": "https://huggingface.co/datasets/msmandelbrot/so101_pick_and_place_green_cube_black_box",
+ "last_modified": "2025-11-05T15:17:57.000Z",
+ "robot_type": "so101_follower",
+ "format": "v3.0",
+ "fps": 30,
+ "episodes": 200,
+ "frames": 121990,
+ "parquet_files": 36,
+ "parquet_bytes": 6156874,
+ "rank": 144
+}

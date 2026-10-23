@@ -1,0 +1,3 @@
+rank	dataset	note
+299	rl26-world-models/so101-task2-720p-whole-arm-v3-cleaned	taken after the first 200 by rank (processed by a parallel worker); not part of the collection
+300	Autobrik/SO-ARM100-dump-pocket-cleaning2	taken after the first 200 by rank (processed by a parallel worker); not part of the collection

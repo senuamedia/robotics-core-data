@@ -1,0 +1,17 @@
+{
+ "id": "LambdaJin/so101_pick_cube_train_n1",
+ "revision": "74f73688c34860434905d30242394748409f4da9",
+ "licence": "apache-2.0",
+ "card_licence": "apache-2.0",
+ "author": "LambdaJin",
+ "url": "https://huggingface.co/datasets/LambdaJin/so101_pick_cube_train_n1",
+ "last_modified": "2026-08-31T02:49:16.000Z",
+ "robot_type": "so_follower",
+ "format": "v3.0",
+ "fps": 30,
+ "episodes": 91,
+ "frames": 100479,
+ "parquet_files": 1,
+ "parquet_bytes": 4134747,
+ "rank": 200
+}

@@ -1,0 +1,17 @@
+{
+ "id": "T1g3rGE/so100_pickplace_pnp",
+ "revision": "03261f0498edd3a4011974ea6379a7c12db53d6b",
+ "licence": "apache-2.0",
+ "card_licence": "apache-2.0",
+ "author": "T1g3rGE",
+ "url": "https://huggingface.co/datasets/T1g3rGE/so100_pickplace_pnp",
+ "last_modified": "2026-02-28T02:24:59.000Z",
+ "robot_type": "so100",
+ "format": "v2.1",
+ "fps": 30,
+ "episodes": 28,
+ "frames": 75282,
+ "parquet_files": 28,
+ "parquet_bytes": 3126556,
+ "rank": 284
+}

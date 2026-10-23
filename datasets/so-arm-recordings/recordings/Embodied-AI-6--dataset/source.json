@@ -1,0 +1,17 @@
+{
+ "id": "Embodied-AI-6/dataset",
+ "revision": "3d33e927df43b0e1d198130d61df5e93edc42b6b",
+ "licence": "apache-2.0",
+ "card_licence": "apache-2.0",
+ "author": "Embodied-AI-6",
+ "url": "https://huggingface.co/datasets/Embodied-AI-6/dataset",
+ "last_modified": "2026-01-29T08:02:24.000Z",
+ "robot_type": "so_follower",
+ "format": "v3.0",
+ "fps": 30,
+ "episodes": 160,
+ "frames": 81786,
+ "parquet_files": 5,
+ "parquet_bytes": 3304596,
+ "rank": 262
+}

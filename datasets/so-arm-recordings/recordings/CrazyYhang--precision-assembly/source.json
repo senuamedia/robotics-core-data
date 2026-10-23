@@ -1,0 +1,17 @@
+{
+ "id": "CrazyYhang/precision-assembly",
+ "revision": "615a13a463195e1dd95a05adde03e552ec3bff11",
+ "licence": "apache-2.0",
+ "card_licence": "apache-2.0",
+ "author": "CrazyYhang",
+ "url": "https://huggingface.co/datasets/CrazyYhang/precision-assembly",
+ "last_modified": "2025-07-19T08:09:54.000Z",
+ "robot_type": "so100",
+ "format": "v2.0",
+ "fps": 30,
+ "episodes": 160,
+ "frames": 165660,
+ "parquet_files": 160,
+ "parquet_bytes": 8064392,
+ "rank": 103
+}

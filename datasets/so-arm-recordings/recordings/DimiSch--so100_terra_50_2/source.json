@@ -1,0 +1,17 @@
+{
+ "id": "DimiSch/so100_terra_50_2",
+ "revision": "6610dd65f72a0d6e997794893252fe021920bbe0",
+ "licence": "apache-2.0",
+ "card_licence": "apache-2.0",
+ "author": "DimiSch",
+ "url": "https://huggingface.co/datasets/DimiSch/so100_terra_50_2",
+ "last_modified": "2025-02-09T17:15:30.000Z",
+ "robot_type": "so100",
+ "format": "v2.0",
+ "fps": 30,
+ "episodes": 34,
+ "frames": 81062,
+ "parquet_files": 34,
+ "parquet_bytes": 4145057,
+ "rank": 263
+}

@@ -1,0 +1,8 @@
+ticks measured 598 predicted 3590
+joint 1 ticks 598 rms_cc 1020 rms_mdeg 896 max_counts 36 max_mdeg 3164 forecast_rms_cc 1720 forecast_max_cc 7288 ratio_rms_per_mille 593 ratio_max_per_mille 493 within_forecast 1
+joint 2 ticks 598 rms_cc 1913 rms_mdeg 1681 max_counts 50 max_mdeg 4394 forecast_rms_cc 2329 forecast_max_cc 5488 ratio_rms_per_mille 821 ratio_max_per_mille 911 within_forecast 1
+joint 3 ticks 598 rms_cc 2402 rms_mdeg 2111 max_counts 58 max_mdeg 5097 forecast_rms_cc 1582 forecast_max_cc 4588 ratio_rms_per_mille 1518 ratio_max_per_mille 1264 within_forecast 0
+joint 4 ticks 598 rms_cc 3963 rms_mdeg 3483 max_counts 75 max_mdeg 6591 forecast_rms_cc 1002 forecast_max_cc 3088 ratio_rms_per_mille 3955 ratio_max_per_mille 2428 within_forecast 0
+joint 5 ticks 598 rms_cc 513 rms_mdeg 450 max_counts 30 max_mdeg 2636 forecast_rms_cc 1705 forecast_max_cc 6488 ratio_rms_per_mille 300 ratio_max_per_mille 462 within_forecast 1
+joint 6 ticks 598 rms_cc 12093 rms_mdeg 10628 max_counts 529 max_mdeg 46494 forecast_rms_cc 6508 forecast_max_cc 10888 ratio_rms_per_mille 1858 ratio_max_per_mille 4858 within_forecast 0
+joints within the forecast 3 of 6; rows whose tick did not match the prediction's row 0

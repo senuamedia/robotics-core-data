@@ -1,0 +1,17 @@
+{
+ "id": "doganay-sirintuna/so101_pick_all_scotchtapes_onto_tray_20260527_204218",
+ "revision": "212314910be6eac2edb519dbb64d76d8ae195af7",
+ "licence": "apache-2.0",
+ "card_licence": "apache-2.0",
+ "author": "doganay-sirintuna",
+ "url": "https://huggingface.co/datasets/doganay-sirintuna/so101_pick_all_scotchtapes_onto_tray_20260527_204218",
+ "last_modified": "2026-05-27T21:45:12.000Z",
+ "robot_type": "so_follower",
+ "format": "v3.0",
+ "fps": 30,
+ "episodes": 50,
+ "frames": 93529,
+ "parquet_files": 1,
+ "parquet_bytes": 4119455,
+ "rank": 218
+}

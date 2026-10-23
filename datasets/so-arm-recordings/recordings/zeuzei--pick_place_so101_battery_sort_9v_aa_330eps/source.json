@@ -1,0 +1,17 @@
+{
+ "id": "zeuzei/pick_place_so101_battery_sort_9v_aa_330eps",
+ "revision": "6a33170c3844561a7150ff48c51c8af5d7170812",
+ "licence": "apache-2.0",
+ "card_licence": "apache-2.0",
+ "author": "zeuzei",
+ "url": "https://huggingface.co/datasets/zeuzei/pick_place_so101_battery_sort_9v_aa_330eps",
+ "last_modified": "2026-06-08T12:15:33.000Z",
+ "robot_type": "so_follower",
+ "format": "v3.0",
+ "fps": 30,
+ "episodes": 330,
+ "frames": 212337,
+ "parquet_files": 1,
+ "parquet_bytes": 5032297,
+ "rank": 70
+}

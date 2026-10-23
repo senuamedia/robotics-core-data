@@ -1,0 +1,17 @@
+{
+ "id": "jlesein/TestBoulon7",
+ "revision": "7880fad2babdd4ca3c3b5111970469aee797dab9",
+ "licence": "apache-2.0",
+ "card_licence": "apache-2.0",
+ "author": "jlesein",
+ "url": "https://huggingface.co/datasets/jlesein/TestBoulon7",
+ "last_modified": "2025-04-16T09:54:43.000Z",
+ "robot_type": "so100",
+ "format": "v2.1",
+ "fps": 30,
+ "episodes": 400,
+ "frames": 105700,
+ "parquet_files": 400,
+ "parquet_bytes": 6700785,
+ "rank": 181
+}

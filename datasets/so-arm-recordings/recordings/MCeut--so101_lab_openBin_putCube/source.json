@@ -1,0 +1,17 @@
+{
+ "id": "MCeut/so101_lab_openBin_putCube",
+ "revision": "ac5456f3177cdf6d07de9b9539092b230aa3ecd4",
+ "licence": "apache-2.0",
+ "card_licence": "apache-2.0",
+ "author": "MCeut",
+ "url": "https://huggingface.co/datasets/MCeut/so101_lab_openBin_putCube",
+ "last_modified": "2025-09-26T13:55:58.000Z",
+ "robot_type": "so101_follower",
+ "format": "v2.1",
+ "fps": 30,
+ "episodes": 103,
+ "frames": 104413,
+ "parquet_files": 103,
+ "parquet_bytes": 5311520,
+ "rank": 189
+}

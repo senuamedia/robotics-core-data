@@ -1,0 +1,17 @@
+{
+ "id": "Chojins/chess_game_009_white",
+ "revision": "9da8e6d4569f4fb49552730c7483b59d78816dd9",
+ "licence": "apache-2.0",
+ "card_licence": "apache-2.0",
+ "author": "Chojins",
+ "url": "https://huggingface.co/datasets/Chojins/chess_game_009_white",
+ "last_modified": "2025-03-29T09:32:48.000Z",
+ "robot_type": "so100",
+ "format": "v2.1",
+ "fps": 30,
+ "episodes": 342,
+ "frames": 140709,
+ "parquet_files": 342,
+ "parquet_bytes": 8192600,
+ "rank": 123
+}

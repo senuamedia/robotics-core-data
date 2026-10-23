@@ -1,0 +1,17 @@
+{
+ "id": "eundong123/so101",
+ "revision": "6eefe2fe89b8c7c54bdbdf931a27eabc5f563644",
+ "licence": "apache-2.0",
+ "card_licence": "apache-2.0",
+ "author": "eundong123",
+ "url": "https://huggingface.co/datasets/eundong123/so101",
+ "last_modified": "2026-07-28T07:39:36.000Z",
+ "robot_type": "so_follower",
+ "format": "v3.0",
+ "fps": 30,
+ "episodes": 180,
+ "frames": 74761,
+ "parquet_files": 20,
+ "parquet_bytes": 3422235,
+ "rank": 291
+}

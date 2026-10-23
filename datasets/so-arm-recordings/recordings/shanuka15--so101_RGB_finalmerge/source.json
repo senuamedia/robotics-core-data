@@ -1,0 +1,17 @@
+{
+ "id": "shanuka15/so101_RGB_finalmerge",
+ "revision": "838272f37b0811ccf8bd09537f310b8e0f0bd047",
+ "licence": "apache-2.0",
+ "card_licence": "apache-2.0",
+ "author": "shanuka15",
+ "url": "https://huggingface.co/datasets/shanuka15/so101_RGB_finalmerge",
+ "last_modified": "2026-09-16T11:15:42.000Z",
+ "robot_type": "so_follower",
+ "format": "v3.0",
+ "fps": 30,
+ "episodes": 303,
+ "frames": 234405,
+ "parquet_files": 1,
+ "parquet_bytes": 8427967,
+ "rank": 61
+}

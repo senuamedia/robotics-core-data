@@ -1,0 +1,17 @@
+{
+ "id": "Alkatt/so_101_PickStackSort_RedBlueCube",
+ "revision": "35b45bf0403b69767002e32223f9ff7ea0e209b8",
+ "licence": "apache-2.0",
+ "card_licence": "apache-2.0",
+ "author": "Alkatt",
+ "url": "https://huggingface.co/datasets/Alkatt/so_101_PickStackSort_RedBlueCube",
+ "last_modified": "2026-06-02T12:13:15.000Z",
+ "robot_type": "so_follower",
+ "format": "v3.0",
+ "fps": 30,
+ "episodes": 170,
+ "frames": 106294,
+ "parquet_files": 1,
+ "parquet_bytes": 2631687,
+ "rank": 178
+}

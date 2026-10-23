@@ -1,0 +1,17 @@
+{
+ "id": "joanfox/so101_pencil_merged_199_hil",
+ "revision": "ea1f4e415b78ac3bd799cbd0e10902c9f10d190c",
+ "licence": "apache-2.0",
+ "card_licence": "apache-2.0",
+ "author": "joanfox",
+ "url": "https://huggingface.co/datasets/joanfox/so101_pencil_merged_199_hil",
+ "last_modified": "2026-08-10T06:55:20.000Z",
+ "robot_type": "so_follower",
+ "format": "v3.0",
+ "fps": 30,
+ "episodes": 199,
+ "frames": 185140,
+ "parquet_files": 1,
+ "parquet_bytes": 8404869,
+ "rank": 89
+}

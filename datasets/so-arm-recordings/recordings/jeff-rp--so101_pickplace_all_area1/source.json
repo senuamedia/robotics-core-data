@@ -1,0 +1,17 @@
+{
+ "id": "jeff-rp/so101_pickplace_all_area1",
+ "revision": "6ade7fa3611a48d19d1ccd465e0cea06308255c6",
+ "licence": "apache-2.0",
+ "card_licence": "apache-2.0",
+ "author": "jeff-rp",
+ "url": "https://huggingface.co/datasets/jeff-rp/so101_pickplace_all_area1",
+ "last_modified": "2026-10-16T06:52:03.000Z",
+ "robot_type": "so_follower",
+ "format": "v3.0",
+ "fps": 30,
+ "episodes": 230,
+ "frames": 184036,
+ "parquet_files": 1,
+ "parquet_bytes": 8039924,
+ "rank": 90
+}

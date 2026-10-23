@@ -1,0 +1,12 @@
+rows joints 7745 pose 7745 goals 7745 columns 37 98 14
+C1 times failing 0 PASS
+C2 joints and pose agree failing 0 PASS
+C3 encoders recomputed failing 0 PASS
+C4 commands are the run's goals failing 0 PASS
+C5 keyframes 118
+C5 goals at the rig's keyframes failing 0 PASS
+C6 goals within the joint limits failing 0 PASS
+C7 packets failing 0 PASS
+C8 grasp and release frames: grasp@511 release@1232 grasp@1979 release@2688 grasp@3445 release@4144 grasp@4885 release@5600 grasp@6354 release@7056
+C8 grasp and release frames failing 0 PASS
+exit 42

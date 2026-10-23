@@ -1,0 +1,25 @@
+Senua AI Robotics Core: open data
+Copyright 2026 Senua AI
+
+The data and documents in this repository are licensed under the Creative Commons Attribution 4.0 International
+licence (LICENSE). Anyone who shares or adapts them must give appropriate credit to Senua AI.
+
+Third-party material
+
+The SO-101 arm's geometry, masses, inertias and joint layout in datasets/shape-sorter/rig/sorter.rig are taken from
+TheRobotStudio's SO-ARM100 (https://github.com/TheRobotStudio/SO-ARM100, commit
+a758567c3978dfeefe282ede0500085a48fe8f78, Simulation/SO101/so101_new_calib.urdf), and the servo parameters in it from
+the same repository's Simulation/SO101/joints_properties.xml, licensed under the Apache License, Version 2.0. A copy of
+that licence is in LICENSES/Apache-2.0-SO-ARM100.txt.
+
+The converted recordings in datasets/servo-recordings/streams/ are derived from Hugging Face LeRobot's datasets
+lerobot/svla_so101_pickplace (revision f641879e22172be7e8161d5e6c1503c2d2feb657) and lerobot/svla_so100_pickplace
+(revision 728583b5eaf9e739a7f119e2def466fa1d552402), https://huggingface.co/lerobot, licensed under the Apache License,
+Version 2.0. Changes made: each recording's joint positions converted to whole hundredths of its unit, one line a frame
+(datasets/servo-recordings/METHODS.md). A copy of that licence is in LICENSES/Apache-2.0-LeRobot-datasets.txt.
+
+The recordings in datasets/so-arm-recordings/recordings/ are derived from public datasets on the Hugging Face Hub, each
+by its own author and under the licence its author gave it (the Apache License, Version 2.0; the MIT License; or CC BY
+4.0). Each is credited, with its revision and licence, in datasets/so-arm-recordings/NOTICE.md; the changes made are
+set out in datasets/so-arm-recordings/METHODS.md. Copies of those licences are in LICENSES/ (Apache-2.0-LeRobot-datasets.txt,
+MIT-datasets.txt) and LICENSE (CC BY 4.0).

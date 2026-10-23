@@ -1,0 +1,17 @@
+{
+ "id": "RebelDot/single_so101_cubes",
+ "revision": "69ceb8def2aeb1ffc8a53b37fc23e1f635d9e60d",
+ "licence": "apache-2.0",
+ "card_licence": "apache-2.0",
+ "author": "RebelDot",
+ "url": "https://huggingface.co/datasets/RebelDot/single_so101_cubes",
+ "last_modified": "2026-06-12T13:00:03.000Z",
+ "robot_type": "so_follower",
+ "format": "v3.0",
+ "fps": 25,
+ "episodes": 200,
+ "frames": 88772,
+ "parquet_files": 23,
+ "parquet_bytes": 4812241,
+ "rank": 238
+}

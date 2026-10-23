@@ -1,0 +1,17 @@
+{
+ "id": "infoslack/SO-101-SMOLVLA-BIG",
+ "revision": "76e052c4735aa17a780ea0cf33df1760700276ee",
+ "licence": "apache-2.0",
+ "card_licence": "apache-2.0",
+ "author": "infoslack",
+ "url": "https://huggingface.co/datasets/infoslack/SO-101-SMOLVLA-BIG",
+ "last_modified": "2026-01-15T02:38:43.000Z",
+ "robot_type": "so101_follower",
+ "format": "v3.0",
+ "fps": 30,
+ "episodes": 250,
+ "frames": 195461,
+ "parquet_files": 18,
+ "parquet_bytes": 8183574,
+ "rank": 83
+}

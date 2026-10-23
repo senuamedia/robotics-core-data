@@ -1,0 +1,17 @@
+{
+ "id": "Ibuprofene/grab_cup_2cam_v4",
+ "revision": "6118206d65282132ca9a636fa06f6d031040c749",
+ "licence": "apache-2.0",
+ "card_licence": "apache-2.0",
+ "author": "Ibuprofene",
+ "url": "https://huggingface.co/datasets/Ibuprofene/grab_cup_2cam_v4",
+ "last_modified": "2026-07-27T15:58:05.000Z",
+ "robot_type": "so_follower",
+ "format": "v3.0",
+ "fps": 30,
+ "episodes": 146,
+ "frames": 104819,
+ "parquet_files": 6,
+ "parquet_bytes": 3470987,
+ "rank": 187
+}

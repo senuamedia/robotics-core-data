@@ -1,0 +1,17 @@
+{
+ "id": "BlackWhite123/so101_redball",
+ "revision": "0cc574781a27d37f23d893bb07049d33b80d4526",
+ "licence": "apache-2.0",
+ "card_licence": "apache-2.0",
+ "author": "BlackWhite123",
+ "url": "https://huggingface.co/datasets/BlackWhite123/so101_redball",
+ "last_modified": "2026-09-16T10:43:38.000Z",
+ "robot_type": "so_follower",
+ "format": "v3.0",
+ "fps": 30,
+ "episodes": 51,
+ "frames": 94106,
+ "parquet_files": 13,
+ "parquet_bytes": 3757431,
+ "rank": 215
+}

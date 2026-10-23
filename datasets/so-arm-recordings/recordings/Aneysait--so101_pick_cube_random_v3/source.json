@@ -1,0 +1,17 @@
+{
+ "id": "Aneysait/so101_pick_cube_random_v3",
+ "revision": "785b171349c5b1735ff8b5e1e381bc8849d016aa",
+ "licence": "apache-2.0",
+ "card_licence": "apache-2.0",
+ "author": "Aneysait",
+ "url": "https://huggingface.co/datasets/Aneysait/so101_pick_cube_random_v3",
+ "last_modified": "2026-07-16T03:18:32.000Z",
+ "robot_type": "so_follower",
+ "format": "v3.0",
+ "fps": 30,
+ "episodes": 198,
+ "frames": 86249,
+ "parquet_files": 1,
+ "parquet_bytes": 3645401,
+ "rank": 247
+}

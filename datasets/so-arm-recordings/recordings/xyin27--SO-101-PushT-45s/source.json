@@ -1,0 +1,17 @@
+{
+ "id": "xyin27/SO-101-PushT-45s",
+ "revision": "fb8e1e94e687b66d9a3e0338297091a216d8a9a8",
+ "licence": "apache-2.0",
+ "card_licence": "apache-2.0",
+ "author": "xyin27",
+ "url": "https://huggingface.co/datasets/xyin27/SO-101-PushT-45s",
+ "last_modified": "2026-04-06T15:42:36.000Z",
+ "robot_type": "so_follower",
+ "format": "v3.0",
+ "fps": 30,
+ "episodes": 230,
+ "frames": 206633,
+ "parquet_files": 14,
+ "parquet_bytes": 4599331,
+ "rank": 74
+}

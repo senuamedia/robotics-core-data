@@ -1,0 +1,17 @@
+{
+ "id": "corona314/data15_20261024_111140",
+ "revision": "36c4a3ade206bfc4a2ae6272b6f0e0a7caf2294f",
+ "licence": "apache-2.0",
+ "card_licence": "apache-2.0",
+ "author": "corona314",
+ "url": "https://huggingface.co/datasets/corona314/data15_20261024_111140",
+ "last_modified": "2026-10-24T14:41:36.000Z",
+ "robot_type": "so_follower",
+ "format": "v3.0",
+ "fps": 30,
+ "episodes": 110,
+ "frames": 86990,
+ "parquet_files": 18,
+ "parquet_bytes": 3940863,
+ "rank": 246
+}

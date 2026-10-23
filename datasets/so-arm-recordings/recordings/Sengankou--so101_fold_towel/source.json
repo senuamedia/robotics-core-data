@@ -1,0 +1,17 @@
+{
+ "id": "Sengankou/so101_fold_towel",
+ "revision": "d7dd3d4242e52c38880397ee9da8587f3a1d5801",
+ "licence": "apache-2.0",
+ "card_licence": "apache-2.0",
+ "author": "Sengankou",
+ "url": "https://huggingface.co/datasets/Sengankou/so101_fold_towel",
+ "last_modified": "2026-03-25T12:38:11.000Z",
+ "robot_type": "so101_follower",
+ "format": "v3.0",
+ "fps": 30,
+ "episodes": 180,
+ "frames": 238127,
+ "parquet_files": 14,
+ "parquet_bytes": 12107497,
+ "rank": 58
+}

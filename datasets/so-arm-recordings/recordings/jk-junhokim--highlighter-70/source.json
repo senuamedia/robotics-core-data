@@ -1,0 +1,17 @@
+{
+ "id": "jk-junhokim/highlighter-70",
+ "revision": "28c8b0d0075e2dd471527ffc9f4f849c5a438526",
+ "licence": "apache-2.0",
+ "card_licence": "apache-2.0",
+ "author": "jk-junhokim",
+ "url": "https://huggingface.co/datasets/jk-junhokim/highlighter-70",
+ "last_modified": "2026-07-28T08:02:07.000Z",
+ "robot_type": "so_follower",
+ "format": "v3.0",
+ "fps": 30,
+ "episodes": 70,
+ "frames": 79244,
+ "parquet_files": 1,
+ "parquet_bytes": 3541658,
+ "rank": 271
+}

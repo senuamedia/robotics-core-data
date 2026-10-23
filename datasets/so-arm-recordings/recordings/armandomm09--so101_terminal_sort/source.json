@@ -1,0 +1,17 @@
+{
+ "id": "armandomm09/so101_terminal_sort",
+ "revision": "d0279be86407844cc47d8e72b5cec3ffc3ad8e7a",
+ "licence": "apache-2.0",
+ "card_licence": "apache-2.0",
+ "author": "armandomm09",
+ "url": "https://huggingface.co/datasets/armandomm09/so101_terminal_sort",
+ "last_modified": "2026-06-08T03:32:59.000Z",
+ "robot_type": "so_follower",
+ "format": "v3.0",
+ "fps": 30,
+ "episodes": 232,
+ "frames": 103422,
+ "parquet_files": 232,
+ "parquet_bytes": 4864635,
+ "rank": 195
+}

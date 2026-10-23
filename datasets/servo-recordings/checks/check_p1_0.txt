@@ -1,0 +1,9 @@
+check: the states are the same bytes on both machines, and each stream file the conversion of its source (25 October 2026)
+so101 states: armb d8ec7423d0e38f723f1a65be7c70a3ec8312061be5c958c42fb27a89a28c9fdf x86b d8ec7423d0e38f723f1a65be7c70a3ec8312061be5c958c42fb27a89a28c9fdf SAME
+so100 states: armb cd702b827cabcd35a913fb5448b72264cae53599749b556d836e69fd2905f102 x86b cd702b827cabcd35a913fb5448b72264cae53599749b556d836e69fd2905f102 SAME
+so101: stream frames 11939, state lines 11939
+so100: stream frames 19631, state lines 19631
+579ad57e2454359fa9f2c0e83525991bd2e0305b7b2914d0b1181da3c6ad9949  so101/file-000.parquet
+e74b2786f24bc5bb8d9e6b82f5f16cc4ae921fcaf42cabdcb9bf939ca78767e1  so100/file-000.parquet
+a32c0710b514b619d5535c0590360200390476f69b638e613842bf5e09dff111  so101.txt
+2772cdf7d796890f279a9dd6da0d8f0c0ec50e9722f0e7da821b7814067b0334  so100.txt

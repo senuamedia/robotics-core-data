@@ -1,0 +1,17 @@
+{
+ "id": "anikmall/so101_tissue_480p_merged",
+ "revision": "9318df5ed0524ef8061b76c15bc4574097085037",
+ "licence": "apache-2.0",
+ "card_licence": "apache-2.0",
+ "author": "anikmall",
+ "url": "https://huggingface.co/datasets/anikmall/so101_tissue_480p_merged",
+ "last_modified": "2026-07-03T23:38:57.000Z",
+ "robot_type": "so_follower",
+ "format": "v3.0",
+ "fps": 30,
+ "episodes": 150,
+ "frames": 89413,
+ "parquet_files": 1,
+ "parquet_bytes": 3886462,
+ "rank": 235
+}

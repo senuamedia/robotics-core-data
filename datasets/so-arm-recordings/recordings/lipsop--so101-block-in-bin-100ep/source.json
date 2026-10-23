@@ -1,0 +1,17 @@
+{
+ "id": "lipsop/so101-block-in-bin-100ep",
+ "revision": "2fd6bf360927cadef62a15b4f1a77aa0ba468a8c",
+ "licence": "apache-2.0",
+ "card_licence": "apache-2.0",
+ "author": "lipsop",
+ "url": "https://huggingface.co/datasets/lipsop/so101-block-in-bin-100ep",
+ "last_modified": "2025-07-10T14:59:05.000Z",
+ "robot_type": "so101_follower",
+ "format": "v2.1",
+ "fps": 30,
+ "episodes": 100,
+ "frames": 85514,
+ "parquet_files": 100,
+ "parquet_bytes": 3484382,
+ "rank": 251
+}

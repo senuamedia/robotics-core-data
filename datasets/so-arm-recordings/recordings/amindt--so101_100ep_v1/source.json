@@ -1,0 +1,17 @@
+{
+ "id": "amindt/so101_100ep_v1",
+ "revision": "a8e18b2683cdcd7194acdb7f9ae250abd9f76f11",
+ "licence": "apache-2.0",
+ "card_licence": "apache-2.0",
+ "author": "amindt",
+ "url": "https://huggingface.co/datasets/amindt/so101_100ep_v1",
+ "last_modified": "2026-02-17T16:22:30.000Z",
+ "robot_type": "so_follower",
+ "format": "v3.0",
+ "fps": 30,
+ "episodes": 100,
+ "frames": 89827,
+ "parquet_files": 1,
+ "parquet_bytes": 2617930,
+ "rank": 232
+}

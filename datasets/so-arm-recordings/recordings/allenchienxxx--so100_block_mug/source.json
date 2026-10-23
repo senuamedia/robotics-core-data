@@ -1,0 +1,17 @@
+{
+ "id": "allenchienxxx/so100_block_mug",
+ "revision": "2cfe4bbab325d60164b00539738ca5c2d3c83a3c",
+ "licence": "apache-2.0",
+ "card_licence": "apache-2.0",
+ "author": "allenchienxxx",
+ "url": "https://huggingface.co/datasets/allenchienxxx/so100_block_mug",
+ "last_modified": "2025-04-30T22:52:05.000Z",
+ "robot_type": "so100",
+ "format": "v2.1",
+ "fps": 30,
+ "episodes": 101,
+ "frames": 90285,
+ "parquet_files": 101,
+ "parquet_bytes": 2988732,
+ "rank": 229
+}

@@ -1,0 +1,17 @@
+{
+ "id": "3b4t4/so101_pickplace_3color_20260601_135201",
+ "revision": "a8e9aaf5195e6d7d52bee6921df4b24f0c3d2fc7",
+ "licence": "apache-2.0",
+ "card_licence": "apache-2.0",
+ "author": "3b4t4",
+ "url": "https://huggingface.co/datasets/3b4t4/so101_pickplace_3color_20260601_135201",
+ "last_modified": "2026-06-01T07:50:54.000Z",
+ "robot_type": "so_follower",
+ "format": "v3.0",
+ "fps": 30,
+ "episodes": 150,
+ "frames": 74729,
+ "parquet_files": 5,
+ "parquet_bytes": 3440745,
+ "rank": 292
+}

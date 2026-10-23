@@ -1,0 +1,17 @@
+{
+ "id": "apayan/so100_ball8",
+ "revision": "f318cc9490b327bd1382e29c528f7d7348aa4716",
+ "licence": "apache-2.0",
+ "card_licence": "apache-2.0",
+ "author": "apayan",
+ "url": "https://huggingface.co/datasets/apayan/so100_ball8",
+ "last_modified": "2025-04-29T22:10:56.000Z",
+ "robot_type": "so100",
+ "format": "v2.1",
+ "fps": 30,
+ "episodes": 104,
+ "frames": 110416,
+ "parquet_files": 104,
+ "parquet_bytes": 4807392,
+ "rank": 173
+}

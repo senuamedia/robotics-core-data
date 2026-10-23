@@ -1,0 +1,17 @@
+{
+ "id": "shubham4413/erh_so101",
+ "revision": "250dd4ca283ed3f8c0e835105a7f2bbf4def7e92",
+ "licence": "apache-2.0",
+ "card_licence": "apache-2.0",
+ "author": "shubham4413",
+ "url": "https://huggingface.co/datasets/shubham4413/erh_so101",
+ "last_modified": "2026-10-18T03:12:21.000Z",
+ "robot_type": "so_follower",
+ "format": "v3.0",
+ "fps": 30,
+ "episodes": 300,
+ "frames": 255518,
+ "parquet_files": 33,
+ "parquet_bytes": 12617914,
+ "rank": 52
+}

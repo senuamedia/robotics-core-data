@@ -1,0 +1,17 @@
+{
+ "id": "kvnptl/so101-teleop-vials-to-rack-real",
+ "revision": "b9f73d7e9009e2205bf6db464903b735fb43c27a",
+ "licence": "apache-2.0",
+ "card_licence": "apache-2.0",
+ "author": "kvnptl",
+ "url": "https://huggingface.co/datasets/kvnptl/so101-teleop-vials-to-rack-real",
+ "last_modified": "2026-06-17T15:05:25.000Z",
+ "robot_type": "so101_follower",
+ "format": "v3.0",
+ "fps": 30,
+ "episodes": 100,
+ "frames": 106002,
+ "parquet_files": 12,
+ "parquet_bytes": 4960302,
+ "rank": 180
+}

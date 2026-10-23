@@ -1,0 +1,17 @@
+{
+ "id": "sahilkulriaboss/ours_536",
+ "revision": "e33ba0d65b767e1fb4ceea61edf0fbed720823fd",
+ "licence": "apache-2.0",
+ "card_licence": "apache-2.0",
+ "author": "sahilkulriaboss",
+ "url": "https://huggingface.co/datasets/sahilkulriaboss/ours_536",
+ "last_modified": "2026-10-18T01:33:52.000Z",
+ "robot_type": "so_follower",
+ "format": "v3.0",
+ "fps": 30,
+ "episodes": 536,
+ "frames": 225483,
+ "parquet_files": 1,
+ "parquet_bytes": 11881959,
+ "rank": 64
+}

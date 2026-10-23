@@ -1,0 +1,17 @@
+{
+ "id": "open-cloth/so101-full-fold-merged",
+ "revision": "098156104900bdb9c47ad92d7d851cbc251e0e47",
+ "licence": "apache-2.0",
+ "card_licence": "apache-2.0",
+ "author": "open-cloth",
+ "url": "https://huggingface.co/datasets/open-cloth/so101-full-fold-merged",
+ "last_modified": "2026-05-07T14:19:23.000Z",
+ "robot_type": "so_follower",
+ "format": "v3.0",
+ "fps": 30,
+ "episodes": 118,
+ "frames": 105071,
+ "parquet_files": 1,
+ "parquet_bytes": 2951333,
+ "rank": 184
+}

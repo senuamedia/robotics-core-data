@@ -1,0 +1,17 @@
+{
+ "id": "Pavitpaul/so101_peg_transfer_v2",
+ "revision": "05642f46ac4d4f75c5a207e4503926e5a7a46cc8",
+ "licence": "apache-2.0",
+ "card_licence": "apache-2.0",
+ "author": "Pavitpaul",
+ "url": "https://huggingface.co/datasets/Pavitpaul/so101_peg_transfer_v2",
+ "last_modified": "2026-08-11T04:52:10.000Z",
+ "robot_type": "so_follower",
+ "format": "v3.0",
+ "fps": 20,
+ "episodes": 201,
+ "frames": 74437,
+ "parquet_files": 5,
+ "parquet_bytes": 3379304,
+ "rank": 294
+}

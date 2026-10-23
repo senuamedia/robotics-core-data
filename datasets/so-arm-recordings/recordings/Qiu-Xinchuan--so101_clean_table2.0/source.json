@@ -1,0 +1,17 @@
+{
+ "id": "Qiu-Xinchuan/so101_clean_table2.0",
+ "revision": "360f03f1282289097fc9b8f3baeae2d866ff6d14",
+ "licence": "apache-2.0",
+ "card_licence": "apache-2.0",
+ "author": "Qiu-Xinchuan",
+ "url": "https://huggingface.co/datasets/Qiu-Xinchuan/so101_clean_table2.0",
+ "last_modified": "2026-04-08T04:05:40.000Z",
+ "robot_type": "so101_follower",
+ "format": "v3.0",
+ "fps": 30,
+ "episodes": 100,
+ "frames": 205671,
+ "parquet_files": 7,
+ "parquet_bytes": 10139615,
+ "rank": 76
+}
