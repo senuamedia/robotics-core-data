@@ -11,7 +11,7 @@ Root mean square gap, degrees, held-out; lower is better.
 | elbow flex | 5.355 | 2.315 | 1.121 | 0.911 |
 | wrist flex | 3.797 | 1.542 | 0.548 | 0.584 |
 | wrist roll | 5.085 | 1.563 | 0.463 | 0.376 |
-| five body joints | 6.007 | 2.148 | 0.736 | 0.698 |
+| five body joints | 6.007 | 2.148 | 0.736 | 0.697 |
 
 MuJoCo's figures are Antares' own (its README's tables, read 25 October 2026). World's are this collection's programs on this recording: out of the box, the SO-101's published model at LeRobot's servo gain; calibrated, each servo's command latency identified from the recording's first half.
 
