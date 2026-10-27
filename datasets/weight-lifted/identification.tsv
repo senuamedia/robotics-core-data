@@ -1,0 +1,8 @@
+quantity	value	unit
+command_latency	10.7	ms (2 World steps of 5.35 ms)
+offset_shoulder_pan	-1.107	counts
+offset_shoulder_lift	-14.826	counts
+offset_elbow_flex	-8.298	counts
+offset_wrist_flex	-1.624	counts
+offset_wrist_roll	-1.129	counts
+jaw_band	13	counts (the widest gap between the empty jaw at rest and its command)

@@ -1,0 +1,91 @@
+arms 181: post 2's 154 (development 74, sealed 80), 26 fresh (P3's sealed set), the comparison arm
+
+# World with its own calibration of each arm, post 2's arms: 154 arms
+joint 1 median_world_over_b0_permille_x2 553 sr1 1 world_below_b0 152 of 154 median_world_over_b1_permille_x2 800 sr2 1 world_below_b1 152 of 154 median_world_rms_mdeg_x2 744 median_b0_rms_mdeg_x2 3054
+joint 2 median_world_over_b0_permille_x2 650 sr1 1 world_below_b0 149 of 154 median_world_over_b1_permille_x2 836 sr2 1 world_below_b1 148 of 154 median_world_rms_mdeg_x2 1964 median_b0_rms_mdeg_x2 6618
+joint 3 median_world_over_b0_permille_x2 569 sr1 1 world_below_b0 150 of 154 median_world_over_b1_permille_x2 719 sr2 1 world_below_b1 149 of 154 median_world_rms_mdeg_x2 1991 median_b0_rms_mdeg_x2 7276
+joint 4 median_world_over_b0_permille_x2 810 sr1 1 world_below_b0 142 of 154 median_world_over_b1_permille_x2 1064 sr2 1 world_below_b1 138 of 154 median_world_rms_mdeg_x2 1337 median_b0_rms_mdeg_x2 3522
+joint 5 median_world_over_b0_permille_x2 650 sr1 1 world_below_b0 153 of 154 median_world_over_b1_permille_x2 891 sr2 1 world_below_b1 151 of 154 median_world_rms_mdeg_x2 775 median_b0_rms_mdeg_x2 2512
+joint 6 median_world_over_b0_permille_x2 1287 sr1 1 world_below_b0 137 of 154 median_world_over_b1_permille_x2 1407 sr2 1 world_below_b1 134 of 154 median_world_rms_mdeg_x2 6374 median_b0_rms_mdeg_x2 9516
+five_joints median_world_rms5_mdeg_x2 1623 median_b0_rms5_mdeg_x2 5404 median_b1_rms5_mdeg_x2 3997
+
+# World with its own calibration, development arms: 74 arms
+joint 1 median_world_over_b0_permille_x2 526 sr1 1 world_below_b0 73 of 74 median_world_over_b1_permille_x2 789 sr2 1 world_below_b1 73 of 74 median_world_rms_mdeg_x2 719 median_b0_rms_mdeg_x2 2887
+joint 2 median_world_over_b0_permille_x2 652 sr1 1 world_below_b0 72 of 74 median_world_over_b1_permille_x2 820 sr2 1 world_below_b1 72 of 74 median_world_rms_mdeg_x2 2000 median_b0_rms_mdeg_x2 6592
+joint 3 median_world_over_b0_permille_x2 584 sr1 1 world_below_b0 70 of 74 median_world_over_b1_permille_x2 724 sr2 1 world_below_b1 70 of 74 median_world_rms_mdeg_x2 2129 median_b0_rms_mdeg_x2 7242
+joint 4 median_world_over_b0_permille_x2 810 sr1 1 world_below_b0 67 of 74 median_world_over_b1_permille_x2 1059 sr2 1 world_below_b1 67 of 74 median_world_rms_mdeg_x2 1320 median_b0_rms_mdeg_x2 3665
+joint 5 median_world_over_b0_permille_x2 637 sr1 1 world_below_b0 73 of 74 median_world_over_b1_permille_x2 882 sr2 1 world_below_b1 73 of 74 median_world_rms_mdeg_x2 748 median_b0_rms_mdeg_x2 2527
+joint 6 median_world_over_b0_permille_x2 1256 sr1 1 world_below_b0 63 of 74 median_world_over_b1_permille_x2 1414 sr2 1 world_below_b1 63 of 74 median_world_rms_mdeg_x2 6590 median_b0_rms_mdeg_x2 8741
+five_joints median_world_rms5_mdeg_x2 1647 median_b0_rms5_mdeg_x2 5442 median_b1_rms5_mdeg_x2 4058
+
+# World with its own calibration, sealed arms: 80 arms
+joint 1 median_world_over_b0_permille_x2 566 sr1 1 world_below_b0 79 of 80 median_world_over_b1_permille_x2 819 sr2 1 world_below_b1 79 of 80 median_world_rms_mdeg_x2 770 median_b0_rms_mdeg_x2 3080
+joint 2 median_world_over_b0_permille_x2 648 sr1 1 world_below_b0 77 of 80 median_world_over_b1_permille_x2 850 sr2 1 world_below_b1 76 of 80 median_world_rms_mdeg_x2 1923 median_b0_rms_mdeg_x2 6653
+joint 3 median_world_over_b0_permille_x2 567 sr1 1 world_below_b0 80 of 80 median_world_over_b1_permille_x2 709 sr2 1 world_below_b1 79 of 80 median_world_rms_mdeg_x2 1966 median_b0_rms_mdeg_x2 7371
+joint 4 median_world_over_b0_permille_x2 810 sr1 1 world_below_b0 75 of 80 median_world_over_b1_permille_x2 1082 sr2 1 world_below_b1 71 of 80 median_world_rms_mdeg_x2 1355 median_b0_rms_mdeg_x2 3355
+joint 5 median_world_over_b0_permille_x2 650 sr1 1 world_below_b0 80 of 80 median_world_over_b1_permille_x2 909 sr2 1 world_below_b1 78 of 80 median_world_rms_mdeg_x2 787 median_b0_rms_mdeg_x2 2489
+joint 6 median_world_over_b0_permille_x2 1317 sr1 1 world_below_b0 74 of 80 median_world_over_b1_permille_x2 1402 sr2 1 world_below_b1 71 of 80 median_world_rms_mdeg_x2 5258 median_b0_rms_mdeg_x2 9983
+five_joints median_world_rms5_mdeg_x2 1594 median_b0_rms5_mdeg_x2 5310 median_b1_rms5_mdeg_x2 3930
+
+# World with its own calibration, fresh arms: 26 arms
+joint 1 median_world_over_b0_permille_x2 519 sr1 1 world_below_b0 25 of 26 median_world_over_b1_permille_x2 756 sr2 1 world_below_b1 25 of 26 median_world_rms_mdeg_x2 795 median_b0_rms_mdeg_x2 3274
+joint 2 median_world_over_b0_permille_x2 525 sr1 1 world_below_b0 26 of 26 median_world_over_b1_permille_x2 691 sr2 1 world_below_b1 26 of 26 median_world_rms_mdeg_x2 1875 median_b0_rms_mdeg_x2 7682
+joint 3 median_world_over_b0_permille_x2 648 sr1 1 world_below_b0 26 of 26 median_world_over_b1_permille_x2 800 sr2 1 world_below_b1 25 of 26 median_world_rms_mdeg_x2 2038 median_b0_rms_mdeg_x2 6647
+joint 4 median_world_over_b0_permille_x2 721 sr1 1 world_below_b0 23 of 26 median_world_over_b1_permille_x2 1057 sr2 1 world_below_b1 22 of 26 median_world_rms_mdeg_x2 1386 median_b0_rms_mdeg_x2 3384
+joint 5 median_world_over_b0_permille_x2 667 sr1 1 world_below_b0 25 of 26 median_world_over_b1_permille_x2 1021 sr2 1 world_below_b1 25 of 26 median_world_rms_mdeg_x2 755 median_b0_rms_mdeg_x2 2234
+joint 6 median_world_over_b0_permille_x2 1321 sr1 1 world_below_b0 20 of 26 median_world_over_b1_permille_x2 1395 sr2 1 world_below_b1 20 of 26 median_world_rms_mdeg_x2 6443 median_b0_rms_mdeg_x2 9322
+five_joints median_world_rms5_mdeg_x2 1737 median_b0_rms5_mdeg_x2 5508 median_b1_rms5_mdeg_x2 4016
+
+# World with its own calibration, the comparison arm
+joint 1 median_world_over_b0_permille_x2 154 sr1 1 world_below_b0 1 of 1 median_world_over_b1_permille_x2 234 sr2 1 world_below_b1 1 of 1 median_world_rms_mdeg_x2 760 median_b0_rms_mdeg_x2 9800
+joint 2 median_world_over_b0_permille_x2 244 sr1 1 world_below_b0 1 of 1 median_world_over_b1_permille_x2 348 sr2 1 world_below_b1 1 of 1 median_world_rms_mdeg_x2 1450 median_b0_rms_mdeg_x2 11886
+joint 3 median_world_over_b0_permille_x2 356 sr1 1 world_below_b0 1 of 1 median_world_over_b1_permille_x2 472 sr2 1 world_below_b1 1 of 1 median_world_rms_mdeg_x2 1772 median_b0_rms_mdeg_x2 9916
+joint 4 median_world_over_b0_permille_x2 270 sr1 1 world_below_b0 1 of 1 median_world_over_b1_permille_x2 402 sr2 1 world_below_b1 1 of 1 median_world_rms_mdeg_x2 942 median_b0_rms_mdeg_x2 6938
+joint 5 median_world_over_b0_permille_x2 192 sr1 1 world_below_b0 1 of 1 median_world_over_b1_permille_x2 288 sr2 1 world_below_b1 1 of 1 median_world_rms_mdeg_x2 670 median_b0_rms_mdeg_x2 6994
+joint 6 median_world_over_b0_permille_x2 1130 sr1 1 world_below_b0 1 of 1 median_world_over_b1_permille_x2 1334 sr2 1 world_below_b1 1 of 1 median_world_rms_mdeg_x2 5210 median_b0_rms_mdeg_x2 9220
+five_joints median_world_rms5_mdeg_x2 1196 median_b0_rms5_mdeg_x2 9302 median_b1_rms5_mdeg_x2 6486
+
+# World out of the box, post 2's arms: 154 arms
+joint 1 median_world_over_b0_permille_x2 855 sr1 1 world_below_b0 154 of 154 median_world_over_b1_permille_x2 1247 sr2 1 world_below_b1 153 of 154 median_world_rms_mdeg_x2 1381 median_b0_rms_mdeg_x2 3054
+joint 2 median_world_over_b0_permille_x2 1255 sr1 1 world_below_b0 137 of 154 median_world_over_b1_permille_x2 1671 sr2 1 world_below_b1 115 of 154 median_world_rms_mdeg_x2 4296 median_b0_rms_mdeg_x2 6618
+joint 3 median_world_over_b0_permille_x2 975 sr1 1 world_below_b0 148 of 154 median_world_over_b1_permille_x2 1218 sr2 1 world_below_b1 146 of 154 median_world_rms_mdeg_x2 3533 median_b0_rms_mdeg_x2 7276
+joint 4 median_world_over_b0_permille_x2 1160 sr1 1 world_below_b0 123 of 154 median_world_over_b1_permille_x2 1556 sr2 1 world_below_b1 108 of 154 median_world_rms_mdeg_x2 2564 median_b0_rms_mdeg_x2 3522
+joint 5 median_world_over_b0_permille_x2 863 sr1 1 world_below_b0 153 of 154 median_world_over_b1_permille_x2 1245 sr2 1 world_below_b1 153 of 154 median_world_rms_mdeg_x2 1105 median_b0_rms_mdeg_x2 2512
+joint 6 median_world_over_b0_permille_x2 1758 sr1 1 world_below_b0 145 of 154 median_world_over_b1_permille_x2 1890 sr2 1 world_below_b1 127 of 154 median_world_rms_mdeg_x2 7541 median_b0_rms_mdeg_x2 9516
+five_joints median_world_rms5_mdeg_x2 3267 median_b0_rms5_mdeg_x2 5404 median_b1_rms5_mdeg_x2 3997
+
+# World out of the box, development arms: 74 arms
+joint 1 median_world_over_b0_permille_x2 878 sr1 1 world_below_b0 74 of 74 median_world_over_b1_permille_x2 1232 sr2 1 world_below_b1 74 of 74 median_world_rms_mdeg_x2 1248 median_b0_rms_mdeg_x2 2887
+joint 2 median_world_over_b0_permille_x2 1191 sr1 1 world_below_b0 67 of 74 median_world_over_b1_permille_x2 1613 sr2 1 world_below_b1 60 of 74 median_world_rms_mdeg_x2 4090 median_b0_rms_mdeg_x2 6592
+joint 3 median_world_over_b0_permille_x2 976 sr1 1 world_below_b0 70 of 74 median_world_over_b1_permille_x2 1209 sr2 1 world_below_b1 70 of 74 median_world_rms_mdeg_x2 3533 median_b0_rms_mdeg_x2 7242
+joint 4 median_world_over_b0_permille_x2 1149 sr1 1 world_below_b0 60 of 74 median_world_over_b1_permille_x2 1476 sr2 1 world_below_b1 55 of 74 median_world_rms_mdeg_x2 2311 median_b0_rms_mdeg_x2 3665
+joint 5 median_world_over_b0_permille_x2 867 sr1 1 world_below_b0 73 of 74 median_world_over_b1_permille_x2 1282 sr2 1 world_below_b1 73 of 74 median_world_rms_mdeg_x2 1183 median_b0_rms_mdeg_x2 2527
+joint 6 median_world_over_b0_permille_x2 1656 sr1 1 world_below_b0 70 of 74 median_world_over_b1_permille_x2 1857 sr2 1 world_below_b1 63 of 74 median_world_rms_mdeg_x2 7358 median_b0_rms_mdeg_x2 8741
+five_joints median_world_rms5_mdeg_x2 3235 median_b0_rms5_mdeg_x2 5442 median_b1_rms5_mdeg_x2 4058
+
+# World out of the box, sealed arms: 80 arms
+joint 1 median_world_over_b0_permille_x2 841 sr1 1 world_below_b0 80 of 80 median_world_over_b1_permille_x2 1274 sr2 1 world_below_b1 79 of 80 median_world_rms_mdeg_x2 1393 median_b0_rms_mdeg_x2 3080
+joint 2 median_world_over_b0_permille_x2 1310 sr1 1 world_below_b0 70 of 80 median_world_over_b1_permille_x2 1758 sr2 1 world_below_b1 55 of 80 median_world_rms_mdeg_x2 4569 median_b0_rms_mdeg_x2 6653
+joint 3 median_world_over_b0_permille_x2 969 sr1 1 world_below_b0 78 of 80 median_world_over_b1_permille_x2 1236 sr2 1 world_below_b1 76 of 80 median_world_rms_mdeg_x2 3537 median_b0_rms_mdeg_x2 7371
+joint 4 median_world_over_b0_permille_x2 1237 sr1 1 world_below_b0 63 of 80 median_world_over_b1_permille_x2 1599 sr2 1 world_below_b1 53 of 80 median_world_rms_mdeg_x2 3132 median_b0_rms_mdeg_x2 3355
+joint 5 median_world_over_b0_permille_x2 841 sr1 1 world_below_b0 80 of 80 median_world_over_b1_permille_x2 1215 sr2 1 world_below_b1 80 of 80 median_world_rms_mdeg_x2 1040 median_b0_rms_mdeg_x2 2489
+joint 6 median_world_over_b0_permille_x2 1798 sr1 1 world_below_b0 75 of 80 median_world_over_b1_permille_x2 1932 sr2 1 world_below_b1 64 of 80 median_world_rms_mdeg_x2 7550 median_b0_rms_mdeg_x2 9983
+five_joints median_world_rms5_mdeg_x2 3269 median_b0_rms5_mdeg_x2 5310 median_b1_rms5_mdeg_x2 3930
+
+# World out of the box, fresh arms: 26 arms
+joint 1 median_world_over_b0_permille_x2 878 sr1 1 world_below_b0 26 of 26 median_world_over_b1_permille_x2 1264 sr2 1 world_below_b1 25 of 26 median_world_rms_mdeg_x2 1361 median_b0_rms_mdeg_x2 3274
+joint 2 median_world_over_b0_permille_x2 1281 sr1 1 world_below_b0 26 of 26 median_world_over_b1_permille_x2 1718 sr2 1 world_below_b1 20 of 26 median_world_rms_mdeg_x2 4915 median_b0_rms_mdeg_x2 7682
+joint 3 median_world_over_b0_permille_x2 1007 sr1 1 world_below_b0 25 of 26 median_world_over_b1_permille_x2 1297 sr2 1 world_below_b1 24 of 26 median_world_rms_mdeg_x2 3698 median_b0_rms_mdeg_x2 6647
+joint 4 median_world_over_b0_permille_x2 1214 sr1 1 world_below_b0 19 of 26 median_world_over_b1_permille_x2 1838 sr2 1 world_below_b1 15 of 26 median_world_rms_mdeg_x2 2627 median_b0_rms_mdeg_x2 3384
+joint 5 median_world_over_b0_permille_x2 836 sr1 1 world_below_b0 26 of 26 median_world_over_b1_permille_x2 1238 sr2 1 world_below_b1 26 of 26 median_world_rms_mdeg_x2 857 median_b0_rms_mdeg_x2 2234
+joint 6 median_world_over_b0_permille_x2 1608 sr1 1 world_below_b0 26 of 26 median_world_over_b1_permille_x2 1888 sr2 1 world_below_b1 23 of 26 median_world_rms_mdeg_x2 6825 median_b0_rms_mdeg_x2 9322
+five_joints median_world_rms5_mdeg_x2 3294 median_b0_rms5_mdeg_x2 5508 median_b1_rms5_mdeg_x2 4016
+
+# World out of the box, the comparison arm
+joint 1 median_world_over_b0_permille_x2 920 sr1 1 world_below_b0 1 of 1 median_world_over_b1_permille_x2 1388 sr2 1 world_below_b1 1 of 1 median_world_rms_mdeg_x2 4510 median_b0_rms_mdeg_x2 9800
+joint 2 median_world_over_b0_permille_x2 940 sr1 1 world_below_b0 1 of 1 median_world_over_b1_permille_x2 1346 sr2 1 world_below_b1 1 of 1 median_world_rms_mdeg_x2 5590 median_b0_rms_mdeg_x2 11886
+joint 3 median_world_over_b0_permille_x2 934 sr1 1 world_below_b0 1 of 1 median_world_over_b1_permille_x2 1236 sr2 1 world_below_b1 1 of 1 median_world_rms_mdeg_x2 4630 median_b0_rms_mdeg_x2 9916
+joint 4 median_world_over_b0_permille_x2 888 sr1 1 world_below_b0 1 of 1 median_world_over_b1_permille_x2 1320 sr2 1 world_below_b1 1 of 1 median_world_rms_mdeg_x2 3084 median_b0_rms_mdeg_x2 6938
+joint 5 median_world_over_b0_permille_x2 894 sr1 1 world_below_b0 1 of 1 median_world_over_b1_permille_x2 1344 sr2 1 world_below_b1 1 of 1 median_world_rms_mdeg_x2 3126 median_b0_rms_mdeg_x2 6994
+joint 6 median_world_over_b0_permille_x2 1400 sr1 1 world_below_b0 1 of 1 median_world_over_b1_permille_x2 1654 sr2 1 world_below_b1 1 of 1 median_world_rms_mdeg_x2 6458 median_b0_rms_mdeg_x2 9220
+five_joints median_world_rms5_mdeg_x2 4296 median_b0_rms5_mdeg_x2 9302 median_b1_rms5_mdeg_x2 6486

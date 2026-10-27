@@ -23,3 +23,14 @@ by its own author and under the licence its author gave it (the Apache License, 
 4.0). Each is credited, with its revision and licence, in datasets/so-arm-recordings/NOTICE.md; the changes made are
 set out in datasets/so-arm-recordings/METHODS.md. Copies of those licences are in LICENSES/ (Apache-2.0-LeRobot-datasets.txt,
 MIT-datasets.txt) and LICENSE (CC BY 4.0).
+
+The converted streams in datasets/so-arm-recordings-remeasured/recordings/*/sim/measured/ are derived from 26 public
+datasets on the Hugging Face Hub, each by its own author and under the licence its author gave it (the Apache License,
+Version 2.0; the MIT License; or CC BY 4.0), each credited with its revision and licence in
+datasets/so-arm-recordings-remeasured/NOTICE.md; the changes made are set out in datasets/so-arm-recordings/METHODS.md.
+
+The converted recordings in datasets/weight-lifted/runs/ (measured.csv.gz, command.csv.gz, labels.tsv.gz) are derived
+from the Neural Actuation Dataset (frankzydou/NAD, revision 88838bce278e381a830a71af83e27dfbb1dac414), Copyright (c) 2026
+The NeuralActuator Authors, under the MIT License (datasets/weight-lifted/LICENSE_NAD.txt). Changes made: each frame's
+angles converted to the model's angles in servo counts, and the held flag and force label kept
+(datasets/weight-lifted/METHODS.md).
